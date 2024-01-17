@@ -2,38 +2,43 @@
 #include <stdlib.h>
 #include <string.h>
 #define BUFF_SIZE 255
-#define WORK_DIR "./Textos/"
+#define WORK_DIR "./Textos"
 
-int clean_and_unify_files( char *nombre_autor){
-  char file_list[BUFF_SIZE];
+void sanitize_file(char *nombre_autor, char *nombre_archivo){
+  char line[BUFF_SIZE], file[BUFF_SIZE];
+  snprintf(file, sizeof(file), "%s/%s/%s", WORK_DIR, nombre_autor, nombre_archivo);
+  file[strlen(file)-1] = '\0';
+
+  FILE *fp = fopen(file, "r");
+
+  while(fgets(line, sizeof(line), fp) != NULL ) {
+    printf("%s", line);
+  }
+}
+
+int process_file_list( char *nombre_autor){
+  char file_list[BUFF_SIZE], file[BUFF_SIZE];
+  printf("Limpiando y unificando archivos de %s\n", nombre_autor);
+  snprintf(file_list, sizeof(file_list), "%s/%s/%s", WORK_DIR, nombre_autor, ".list");
   FILE *fp = fopen(file_list, "r");
 
-  snprintf(file_list, sizeof(file_list), "%s%s/%s", WORK_DIR, nombre_autor, ".list");
-  printf("Limpiando y unificando archivos de /%s\n", nombre_autor);
   if (fp == NULL){
     printf("Error al abrir el archivo %s\n", file_list);
     return 1;
   }
-  char file[BUFF_SIZE];
 
   while(fgets(file, sizeof(file), fp) != NULL ) {
     printf("%s", file);
+    sanitize_file(nombre_autor, file);
   }
-  return 1;
+  return 0;
 }
 
 int create_file_list(char* nombre_autor){
   char command[BUFF_SIZE];
-  printf("Procesando %s\n", nombre_autor);
-  snprintf(command, sizeof(command), "ls %s%s > %s%s/%s", WORK_DIR, nombre_autor, WORK_DIR, nombre_autor, ".list");
-  int result = system(command);
-
-  if ( result != 0){
-    printf("Ha ocurrido un error\n");
-    return result;
-  }
-  clean_and_unify_files(nombre_autor);
-  return 0;
+  printf("Creando archivo temporal de %s\n", nombre_autor);
+  snprintf(command, sizeof(command), "ls %s/%s > %s/%s/%s", WORK_DIR, nombre_autor, WORK_DIR, nombre_autor, ".list");
+  return system(command);
 }
 
 
@@ -42,6 +47,18 @@ int main(int argc, char** argv){
     printf("Por favor usar solo un argumento\n");
     return 1;
   }
-  create_file_list(argv[1]);
+  char *nombre_autor = argv[1];
+
+  int result = create_file_list(nombre_autor);
+  if (result != 0){
+    printf("Ha ocurrido un error creando el archivo temporal\n");
+    return result;
+  }
+
+  result = process_file_list(nombre_autor);
+  if (result != 0){
+    printf("Ha ocurrido un error procesando el archivo de el autor\n");
+    return result;
+  }
   return 0;
 }
