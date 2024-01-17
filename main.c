@@ -6,7 +6,6 @@
 
 char sanitize_string(char *str){
   for (int i = 0; i < strlen(str); i++){
-
   }
 }
 
