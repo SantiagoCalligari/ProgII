@@ -4,6 +4,12 @@
 #define BUFF_SIZE 255
 #define WORK_DIR "./Textos"
 
+char sanitize_string(char *str){
+  for (int i = 0; i < strlen(str); i++){
+
+  }
+}
+
 void sanitize_file(char *nombre_autor, char *nombre_archivo){
   char line[BUFF_SIZE], file[BUFF_SIZE];
   snprintf(file, sizeof(file), "%s/%s/%s", WORK_DIR, nombre_autor, nombre_archivo);
