@@ -1,3 +1,4 @@
+#include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -5,64 +6,71 @@
 #include <ctype.h>
 #include <sys/types.h>
 #define BUFF_SIZE 512
-#define WORK_DIR "./Textos"
-#define ENTRY_DIR "./Entradas"
+#define RUTA_DIRECTORIO_TRABAJO "./Textos"
+#define RUTA_DIRECTORIO_ENTRADAS "./Entradas"
 
-void create_entry_folder(){
+void crear_directorio_entradas(){
   struct stat st = {0};
-  if (stat(ENTRY_DIR, &st) == -1) {
-    mkdir(ENTRY_DIR, 0744);
+  if (stat(RUTA_DIRECTORIO_ENTRADAS, &st) == -1) {
+    mkdir(RUTA_DIRECTORIO_ENTRADAS, 0744);
   }else{
-    remove(ENTRY_DIR);
-    mkdir(ENTRY_DIR, 0744);
+    remove(RUTA_DIRECTORIO_ENTRADAS);
+    mkdir(RUTA_DIRECTORIO_ENTRADAS, 0744);
   }
 }
 
-char *sanitize_string(char *str) {
+char *normalizar_cadena(char *cadena) {
   int i = 0, j = 0;
-  for (i = 0; str[i] != '.'; i++) {
-    str[j] = tolower(str[i]);
-    if (( str[j] == '\n' ) && ((str[j-1] >= 97 && str[j-1] <= 122) || (str[j+1] >= 97 && str[j+1] <= 122))) {
-          str[j] = ' ';
+  char siguiente, anterior, actual;
+  for (i = 0; cadena[i] != '.'; i++) {
+    cadena[j] = tolower(cadena[i]);
+
+    siguiente = cadena[j+1];
+    anterior = cadena[j-1];
+    actual = cadena[j];
+
+    if (( actual == '\n' ) && ((anterior >= 'a' && anterior <= 'z') || (siguiente >= 'a' && siguiente <= 'z'))) {
+      cadena[j] = ' ';
+      j++;
     }
-    if( (str[j] >= 97 && str[j] <= 122) || str[j] == ' '){
+    if( (actual >= 'a' && actual <= 'z') || actual == ' '){
       j++;
     }
     
   }
-  str[j] = '\n';
-  str[j+1] = '\0';
-  printf("%s",str);
-  return str;
+  cadena[j] = '\n';
+  cadena[j+1] = '\0';
+  printf("%s",cadena);
+  return cadena;
 }
 
 
-int sanitize_file(char *nombre_autor, char *nombre_archivo) {
-  char line[BUFF_SIZE], file[BUFF_SIZE], result[BUFF_SIZE], entrada[BUFF_SIZE];
+int normalizar_archivo(char *nombre_autor, char *nombre_archivo) {
+  char linea[BUFF_SIZE], ruta_archivo[BUFF_SIZE], resultado[BUFF_SIZE], entrada[BUFF_SIZE];
 
-  snprintf(file, sizeof(file), "%s/%s/%s", WORK_DIR, nombre_autor, nombre_archivo);
-  snprintf(entrada, sizeof(entrada), "%s/%s%s", ENTRY_DIR, nombre_autor, ".txt");
-  file[strlen(file) - 1] = '\0';
+  snprintf(ruta_archivo, sizeof(ruta_archivo), "%s/%s/%s", RUTA_DIRECTORIO_TRABAJO, nombre_autor, nombre_archivo);
+  snprintf(entrada, sizeof(entrada), "%s/%s%s", RUTA_DIRECTORIO_ENTRADAS, nombre_autor, ".txt");
+  ruta_archivo[strlen(ruta_archivo) - 1] = '\0';
   entrada[strlen(entrada)] = '\0';
-  result[0] = '\0';
+  resultado[0] = '\0';
 
-  FILE *escrito_autor = fopen(file, "r");
+  FILE *escrito_autor = fopen(ruta_archivo, "r");
   FILE *archivo_entrada = fopen(entrada, "a");
+
   if (escrito_autor == NULL || archivo_entrada == NULL){
     perror("Error");
     return 1;
   }
 
-  while (fgets(line, sizeof(line), escrito_autor) != NULL) {
-    char *punto = strchr(line, '.');
+  while (fgets(linea, sizeof(linea), escrito_autor) != NULL) {
+    char *punto = strchr(linea, '.');
 
     if (punto != NULL) {
-      strncat(result, line, punto - line + 1);
-      char *sanitized_result = sanitize_string(result);
-      fprintf(archivo_entrada, "%s", sanitized_result);
-      result[0] = '\0';
+      strncat(resultado, linea, punto - linea + 1);
+      fprintf(archivo_entrada, "%s", normalizar_cadena(resultado));
+      resultado[0] = '\0';
     } else {
-      strcat(result, line);
+      strcat(resultado, linea);
     }
   }
 
@@ -71,37 +79,37 @@ int sanitize_file(char *nombre_autor, char *nombre_archivo) {
   return 0;
 }
 
-int process_file_list( char *nombre_autor){
-  char file_list[BUFF_SIZE], file[BUFF_SIZE];
+int crear_lista_archivos( char *nombre_autor){
+  char ruta_lista_archivos[BUFF_SIZE], nombre_archivo[BUFF_SIZE];
   printf("Limpiando y unificando archivos de %s\n\n", nombre_autor);
-  snprintf(file_list, sizeof(file_list), "%s/%s/%s", WORK_DIR, nombre_autor, ".list");
-  FILE *fp = fopen(file_list, "r");
+  snprintf(ruta_lista_archivos, sizeof(ruta_lista_archivos), "%s/%s/%s", RUTA_DIRECTORIO_TRABAJO, nombre_autor, ".list");
+  FILE *fp = fopen(ruta_lista_archivos, "r");
 
   if (fp == NULL){
-    printf("Error al abrir el archivo %s\n", file_list);
+    printf("Error al abrir el archivo %s\n", ruta_lista_archivos);
     return 1;
   }
 
-  while(fgets(file, sizeof(file), fp) != NULL ) {
-    sanitize_file(nombre_autor, file);
+  while(fgets(nombre_archivo, sizeof(nombre_archivo), fp) != NULL ) {
+    normalizar_archivo(nombre_autor, nombre_archivo);
   }
   fclose(fp);
   return 0;
 }
 
-int create_file_list(char* nombre_autor){
-  char command[BUFF_SIZE];
+int crear_listado_archivos(char* nombre_autor){
+  char comando[BUFF_SIZE];
   struct stat st = {0};
   // Verificar si existe el autor
-  snprintf(command, sizeof(command), "%s/%s", WORK_DIR, nombre_autor);
-  if (stat(command, &st) == -1) {
+  snprintf(comando, sizeof(comando), "%s/%s", RUTA_DIRECTORIO_TRABAJO, nombre_autor);
+  if (stat(comando, &st) == -1) {
     return 1;
   }
 
   // Si existe, crear el archivo temporal
   printf("Creando archivo temporal de %s\n", nombre_autor);
-  snprintf(command, sizeof(command), "ls %s/%s > %s/%s/%s", WORK_DIR, nombre_autor, WORK_DIR, nombre_autor, ".list");
-  system(command);
+  snprintf(comando, sizeof(comando), "ls %s/%s > %s/%s/%s", RUTA_DIRECTORIO_TRABAJO, nombre_autor, RUTA_DIRECTORIO_TRABAJO, nombre_autor, ".list");
+  system(comando);
   return 0;
 }
 
@@ -113,17 +121,17 @@ int main(int argc, char** argv){
   }
   char *nombre_autor = argv[1];
 
-  int result = create_file_list(nombre_autor);
-  if (result != 0){
+  int resultado = crear_listado_archivos(nombre_autor);
+  if (resultado != 0){
     perror("Error");
-    return result;
+    return resultado;
   }
 
-  create_entry_folder();
-  result = process_file_list(nombre_autor);
-  if (result != 0){
+  crear_directorio_entradas();
+  resultado = crear_lista_archivos(nombre_autor);
+  if (resultado != 0){
     printf("Ha ocurrido un error procesando el archivo de el autor\n");
-    return result;
+    return resultado;
   }
   return 0;
 }
