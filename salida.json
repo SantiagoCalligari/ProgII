@@ -1,0 +1,7851 @@
+{
+  "man": {
+    "siguientes": {
+      "you": 3,
+      "we": 3
+    },
+    "anteriores": {
+      "null": 1,
+      "ground": 1,
+      "out": 1,
+      "hey": 3
+    }
+  },
+  "null": {
+    "siguientes": {
+      "man": 1,
+      "and": 31,
+      "to": 2,
+      "hold": 2,
+      "you": 20,
+      "im": 13,
+      "when": 6,
+      "reality": 1,
+      "its": 3,
+      "so": 2,
+      "dont": 4,
+      "but": 14,
+      "i": 40,
+      "cant": 2,
+      "yeah": 3,
+      "nostalgias": 1,
+      "no": 4,
+      "were": 1,
+      "better": 1,
+      "hey": 6,
+      "if": 16,
+      "oh": 14,
+      "see": 1,
+      "cause": 3,
+      "shot": 1,
+      "theres": 1,
+      "how": 1,
+      "strange": 1,
+      "are": 1,
+      "stop": 4,
+      "well": 3,
+      "time": 1,
+      "like": 2,
+      "why": 4,
+      "we": 2,
+      "could": 3,
+      "all": 2,
+      "tell": 7,
+      "hard": 10,
+      "these": 4,
+      "walking": 1,
+      "hanging": 1,
+      "where": 1,
+      "gonna": 2,
+      "standing": 1,
+      "youll": 1,
+      "la": 4,
+      "eh": 3,
+      "that": 5,
+      "what": 2,
+      "another": 4,
+      "more": 1,
+      "a": 3,
+      "before": 1,
+      "my": 10,
+      "youre": 1,
+      "jumped": 1,
+      "in": 1,
+      "as": 2,
+      "couldve": 1,
+      "never": 2,
+      "headfirst": 2,
+      "this": 2,
+      "dive": 6,
+      "now": 6,
+      "right": 2,
+      "ill": 4,
+      "for": 2,
+      "happy": 1,
+      "back": 1,
+      "lowkey": 4,
+      "rosecolored": 1,
+      "just": 3,
+      "really": 1,
+      "do": 1,
+      "take": 1,
+      "your": 1,
+      "wildly": 1,
+      "is": 1,
+      "say": 2,
+      "they": 2,
+      "throw": 5
+    },
+    "anteriores": {}
+  },
+  "you": {
+    "siguientes": {
+      "really": 3,
+      "came": 1,
+      "got": 9,
+      "said": 1,
+      "gonna": 1,
+      "has": 1,
+      "dont": 6,
+      "believe": 3,
+      "get": 1,
+      "see": 5,
+      "think": 2,
+      "hurt": 1,
+      "call": 1,
+      "you": 5,
+      "want": 10,
+      "cant": 1,
+      "that": 4,
+      "i": 6,
+      "go": 2,
+      "recounting": 1,
+      "racking": 1,
+      "null": 22,
+      "by": 1,
+      "wanna": 3,
+      "can": 1,
+      "wonder": 4,
+      "even": 4,
+      "down": 16,
+      "cry": 4,
+      "hit": 1,
+      "honey": 1,
+      "id": 1,
+      "feel": 1,
+      "hoping": 4,
+      "keep": 2,
+      "project": 1,
+      "if": 1,
+      "kiss": 2,
+      "would": 2,
+      "come": 2,
+      "are": 8,
+      "wont": 2,
+      "now": 16,
+      "back": 1,
+      "dive": 3,
+      "im": 1,
+      "making": 1,
+      "to": 1,
+      "say": 8,
+      "aint": 1,
+      "a": 1,
+      "may": 1,
+      "and": 1,
+      "know": 1,
+      "fight": 1,
+      "ever": 1,
+      "so": 6,
+      "told": 3,
+      "like": 1,
+      "were": 1
+    },
+    "anteriores": {
+      "man": 3,
+      "until": 1,
+      "if": 9,
+      "null": 20,
+      "thing": 1,
+      "when": 8,
+      "of": 3,
+      "ahead": 1,
+      "point": 1,
+      "making": 1,
+      "what": 7,
+      "blink": 1,
+      "bet": 2,
+      "fears": 1,
+      "and": 7,
+      "you": 5,
+      "give": 7,
+      "dont": 2,
+      "are": 2,
+      "did": 2,
+      "feel": 1,
+      "make": 4,
+      "why": 4,
+      "take": 4,
+      "save": 1,
+      "was": 1,
+      "as": 1,
+      "let": 12,
+      "got": 4,
+      "that": 1,
+      "escape": 1,
+      "perfection": 1,
+      "clear": 1,
+      "mine": 1,
+      "like": 6,
+      "doubt": 2,
+      "would": 2,
+      "time": 4,
+      "into": 10,
+      "know": 15,
+      "up": 2,
+      "hear": 1,
+      "world": 1,
+      "want": 1,
+      "by": 1,
+      "boy": 1,
+      "call": 2,
+      "erased": 1,
+      "hate": 1,
+      "replace": 1,
+      "about": 10,
+      "weapons": 1,
+      "memory": 1,
+      "told": 6,
+      "me": 1,
+      "say": 6
+    }
+  },
+  "really": {
+    "siguientes": {
+      "know": 1,
+      "brought": 1,
+      "bring": 1,
+      "sorry": 2,
+      "all": 1
+    },
+    "anteriores": {
+      "you": 3,
+      "youre": 2,
+      "null": 1
+    }
+  },
+  "know": {
+    "siguientes": {
+      "how": 5,
+      "fake": 1,
+      "i": 2,
+      "youre": 1,
+      "that": 1,
+      "where": 1,
+      "the": 2,
+      "if": 1,
+      "we": 2,
+      "you": 15,
+      "null": 1,
+      "do": 4
+    },
+    "anteriores": {
+      "really": 1,
+      "i": 22,
+      "dont": 4,
+      "they": 1,
+      "me": 6,
+      "just": 1,
+      "you": 1
+    }
+  },
+  "how": {
+    "siguientes": {
+      "to": 11,
+      "ive": 3,
+      "i": 5,
+      "we": 2,
+      "it": 1
+    },
+    "anteriores": {
+      "know": 5,
+      "me": 13,
+      "null": 1,
+      "strange": 1,
+      "remember": 1,
+      "address": 1
+    }
+  },
+  "to": {
+    "siguientes": {
+      "get": 5,
+      "keep": 7,
+      "the": 2,
+      "myself": 3,
+      "go": 1,
+      "die": 1,
+      "cry": 1,
+      "mine": 1,
+      "learn": 1,
+      "love": 1,
+      "us": 1,
+      "find": 1,
+      "waste": 3,
+      "grudges": 6,
+      "give": 1,
+      "just": 1,
+      "wake": 1,
+      "come": 2,
+      "rock": 2,
+      "say": 14,
+      "put": 1,
+      "let": 11,
+      "like": 1,
+      "a": 1,
+      "address": 1,
+      "fill": 1,
+      "scatter": 1,
+      "drop": 1,
+      "land": 1,
+      "something": 2,
+      "see": 3,
+      "break": 2,
+      "null": 3,
+      "stop": 1,
+      "stay": 1,
+      "i": 1,
+      "feel": 10,
+      "your": 1,
+      "tell": 2
+    },
+    "anteriores": {
+      "how": 11,
+      "null": 2,
+      "close": 2,
+      "talk": 1,
+      "used": 4,
+      "want": 7,
+      "try": 3,
+      "body": 1,
+      "life": 1,
+      "learn": 1,
+      "up": 1,
+      "on": 8,
+      "just": 2,
+      "had": 5,
+      "neck": 1,
+      "brave": 1,
+      "long": 1,
+      "is": 1,
+      "me": 1,
+      "get": 2,
+      "supposed": 1,
+      "sure": 1,
+      "hate": 11,
+      "one": 4,
+      "need": 1,
+      "afraid": 1,
+      "safe": 1,
+      "leading": 1,
+      "able": 1,
+      "tune": 1,
+      "field": 1,
+      "hands": 1,
+      "shouted": 1,
+      "back": 1,
+      "out": 2,
+      "better": 2,
+      "you": 1,
+      "coming": 1,
+      "good": 1,
+      "have": 2,
+      "yet": 1,
+      "enough": 1,
+      "love": 6
+    }
+  },
+  "get": {
+    "siguientes": {
+      "someone": 1,
+      "is": 1,
+      "knocked": 1,
+      "it": 5,
+      "around": 1,
+      "to": 2,
+      "when": 1,
+      "used": 2
+    },
+    "anteriores": {
+      "to": 5,
+      "you": 1,
+      "id": 1,
+      "and": 2,
+      "gotta": 2,
+      "i": 1,
+      "why": 2
+    }
+  },
+  "someone": {
+    "siguientes": {
+      "down": 1,
+      "i": 1
+    },
+    "anteriores": {
+      "get": 1,
+      "love": 1
+    }
+  },
+  "down": {
+    "siguientes": {
+      "everything": 1,
+      "null": 10,
+      "will": 1,
+      "and": 4,
+      "well": 2,
+      "eh": 5,
+      "from": 1,
+      "another": 1,
+      "so": 1,
+      "with": 1
+    },
+    "anteriores": {
+      "someone": 1,
+      "back": 1,
+      "me": 2,
+      "knocked": 1,
+      "it": 1,
+      "you": 16,
+      "coming": 3,
+      "fall": 1,
+      "houses": 1
+    }
+  },
+  "everything": {
+    "siguientes": {
+      "was": 1
+    },
+    "anteriores": {
+      "down": 1
+    }
+  },
+  "was": {
+    "siguientes": {
+      "fine": 1,
+      "cause": 1,
+      "dreamin": 1,
+      "doing": 1,
+      "you": 1,
+      "leading": 1,
+      "a": 1,
+      "rushing": 1,
+      "left": 3,
+      "wrong": 1
+    },
+    "anteriores": {
+      "everything": 1,
+      "i": 5,
+      "it": 2,
+      "river": 1,
+      "else": 2,
+      "what": 1
+    }
+  },
+  "fine": {
+    "siguientes": {
+      "until": 1,
+      "null": 1
+    },
+    "anteriores": {
+      "was": 1,
+      "up": 1
+    }
+  },
+  "until": {
+    "siguientes": {
+      "you": 1
+    },
+    "anteriores": {
+      "fine": 1
+    }
+  },
+  "came": {
+    "siguientes": {
+      "around": 1
+    },
+    "anteriores": {
+      "you": 1
+    }
+  },
+  "around": {
+    "siguientes": {
+      "null": 1,
+      "it": 1,
+      "with": 1
+    },
+    "anteriores": {
+      "came": 1,
+      "get": 1,
+      "walking": 1
+    }
+  },
+  "and": {
+    "siguientes": {
+      "ive": 1,
+      "they": 5,
+      "i": 21,
+      "ill": 1,
+      "im": 10,
+      "if": 8,
+      "that": 1,
+      "you": 7,
+      "get": 2,
+      "are": 1,
+      "start": 3,
+      "let": 1,
+      "were": 1,
+      "laugh": 4,
+      "it": 1,
+      "youre": 5,
+      "awful": 1,
+      "well": 1,
+      "youll": 1,
+      "drown": 1,
+      "no": 2,
+      "thought": 1,
+      "grab": 1,
+      "the": 2,
+      "my": 6,
+      "shouted": 1,
+      "swim": 1,
+      "oh": 1,
+      "always": 1,
+      "theyre": 1,
+      "pull": 6
+    },
+    "anteriores": {
+      "null": 31,
+      "window": 1,
+      "away": 1,
+      "nobody": 1,
+      "happy": 1,
+      "mouth": 1,
+      "good": 1,
+      "back": 1,
+      "up": 4,
+      "mine": 1,
+      "go": 2,
+      "fight": 1,
+      "side": 1,
+      "changed": 1,
+      "down": 4,
+      "head": 1,
+      "lives": 2,
+      "times": 2,
+      "girl": 1,
+      "long": 1,
+      "basket": 1,
+      "sins": 1,
+      "rise": 1,
+      "heart": 1,
+      "yours": 3,
+      "river": 1,
+      "in": 1,
+      "coat": 2,
+      "shore": 1,
+      "open": 6,
+      "pools": 1,
+      "me": 11,
+      "see": 1,
+      "on": 2,
+      "nervous": 1,
+      "you": 1,
+      "beginnings": 1,
+      "convictions": 1,
+      "over": 1,
+      "wrong": 1,
+      "fire": 1
+    }
+  },
+  "ive": {
+    "siguientes": {
+      "been": 5,
+      "changed": 5,
+      "made": 1,
+      "got": 1
+    },
+    "anteriores": {
+      "and": 1,
+      "how": 3,
+      "that": 5,
+      "bed": 1,
+      "cause": 1,
+      "all": 1
+    }
+  },
+  "been": {
+    "siguientes": {
+      "chasing": 1,
+      "doing": 1,
+      "dont": 3,
+      "awhile": 1,
+      "able": 1,
+      "through": 1
+    },
+    "anteriores": {
+      "ive": 5,
+      "i": 1,
+      "its": 1,
+      "finally": 1
+    }
+  },
+  "chasing": {
+    "siguientes": {
+      "after": 1
+    },
+    "anteriores": {
+      "been": 1
+    }
+  },
+  "after": {
+    "siguientes": {
+      "dreamers": 1,
+      "all": 1
+    },
+    "anteriores": {
+      "chasing": 1,
+      "clouds": 1
+    }
+  },
+  "dreamers": {
+    "siguientes": {
+      "in": 1
+    },
+    "anteriores": {
+      "after": 1
+    }
+  },
+  "in": {
+    "siguientes": {
+      "the": 20,
+      "something": 1,
+      "our": 1,
+      "scores": 1,
+      "your": 1,
+      "a": 1,
+      "myself": 1,
+      "and": 1,
+      "any": 1,
+      "again": 2,
+      "my": 10,
+      "null": 7,
+      "ill": 2,
+      "as": 1,
+      "me": 1
+    },
+    "anteriores": {
+      "dreamers": 1,
+      "caught": 10,
+      "hole": 2,
+      "faith": 1,
+      "nickel": 1,
+      "lips": 1,
+      "stone": 1,
+      "sleeping": 1,
+      "reflection": 1,
+      "expectation": 1,
+      "back": 11,
+      "myself": 1,
+      "see": 1,
+      "floating": 1,
+      "jumped": 1,
+      "null": 1,
+      "dove": 2,
+      "happens": 2,
+      "air": 8,
+      "optimist": 1,
+      "stay": 1,
+      "wildly": 1
+    }
+  },
+  "the": {
+    "siguientes": {
+      "clouds": 1,
+      "one": 5,
+      "ground": 8,
+      "window": 2,
+      "places": 1,
+      "hardest": 1,
+      "rest": 2,
+      "point": 1,
+      "message": 1,
+      "middle": 10,
+      "while": 1,
+      "forest": 1,
+      "trees": 1,
+      "lids": 1,
+      "glory": 2,
+      "use": 3,
+      "lights": 1,
+      "floor": 1,
+      "sun": 1,
+      "first": 5,
+      "years": 1,
+      "only": 1,
+      "dark": 1,
+      "light": 1,
+      "cemetery": 1,
+      "forgetful": 1,
+      "paperthin": 1,
+      "bed": 1,
+      "waters": 1,
+      "naive": 1,
+      "regiment": 1,
+      "dreaded": 1,
+      "reflection": 1,
+      "image": 1,
+      "story": 1,
+      "river": 2,
+      "shore": 2,
+      "coat": 4,
+      "same": 2,
+      "wave": 8,
+      "deep": 2,
+      "fantasy": 2,
+      "illusion": 2,
+      "world": 1,
+      "optimist": 1,
+      "wars": 2,
+      "end": 1,
+      "car": 1,
+      "bright": 1,
+      "beginnings": 1,
+      "weapons": 1,
+      "most": 1,
+      "fog": 1,
+      "best": 1,
+      "worst": 1,
+      "fire": 6
+    },
+    "anteriores": {
+      "in": 20,
+      "i": 1,
+      "on": 4,
+      "to": 2,
+      "about": 2,
+      "be": 5,
+      "all": 6,
+      "got": 2,
+      "see": 1,
+      "for": 1,
+      "behind": 2,
+      "whats": 3,
+      "if": 5,
+      "is": 2,
+      "let": 3,
+      "hit": 6,
+      "not": 1,
+      "fill": 1,
+      "from": 1,
+      "before": 2,
+      "know": 2,
+      "grab": 1,
+      "and": 2,
+      "at": 2,
+      "of": 4,
+      "but": 1,
+      "gotten": 2,
+      "are": 8,
+      "found": 2,
+      "drain": 2,
+      "with": 2,
+      "it": 2,
+      "when": 1,
+      "into": 6
+    }
+  },
+  "clouds": {
+    "siguientes": {
+      "after": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "all": {
+    "siguientes": {
+      "wasnt": 1,
+      "your": 3,
+      "the": 6,
+      "so": 1,
+      "up": 1,
+      "my": 1,
+      "could": 1,
+      "that": 3,
+      "got": 1,
+      "need": 1,
+      "cant": 4,
+      "rosecolored": 4,
+      "ive": 1,
+      "right": 1,
+      "i": 1
+    },
+    "anteriores": {
+      "after": 1,
+      "keeping": 1,
+      "when": 1,
+      "away": 1,
+      "help": 2,
+      "were": 5,
+      "me": 1,
+      "its": 2,
+      "recounting": 1,
+      "them": 1,
+      "null": 2,
+      "we": 6,
+      "let": 1,
+      "wasting": 1,
+      "making": 1,
+      "really": 1,
+      "of": 1,
+      "for": 1
+    }
+  },
+  "wasnt": {
+    "siguientes": {
+      "i": 1,
+      "deep": 2
+    },
+    "anteriores": {
+      "all": 1,
+      "cut": 2
+    }
+  },
+  "i": {
+    "siguientes": {
+      "the": 1,
+      "wouldnt": 3,
+      "stay": 1,
+      "talk": 1,
+      "used": 1,
+      "cant": 14,
+      "was": 5,
+      "try": 4,
+      "think": 7,
+      "gotta": 6,
+      "dont": 17,
+      "can": 13,
+      "love": 1,
+      "feel": 3,
+      "bet": 7,
+      "know": 22,
+      "been": 1,
+      "crawl": 1,
+      "smile": 4,
+      "believe": 2,
+      "go": 2,
+      "look": 1,
+      "said": 1,
+      "shoulda": 1,
+      "cried": 1,
+      "couldnt": 1,
+      "lay": 1,
+      "never": 2,
+      "i": 5,
+      "just": 6,
+      "follow": 1,
+      "thought": 1,
+      "could": 13,
+      "havent": 2,
+      "wont": 2,
+      "want": 3,
+      "aint": 6,
+      "still": 4,
+      "even": 4,
+      "hit": 6,
+      "hate": 11,
+      "got": 9,
+      "fall": 1,
+      "make": 1,
+      "felt": 2,
+      "wrote": 1,
+      "may": 1,
+      "get": 1,
+      "let": 2,
+      "had": 3,
+      "see": 4,
+      "might": 1,
+      "saw": 1,
+      "stood": 1,
+      "dove": 2,
+      "wish": 6,
+      "doubt": 2,
+      "survive": 8,
+      "went": 2,
+      "wonder": 2,
+      "hear": 1,
+      "have": 2,
+      "wanna": 1,
+      "say": 1,
+      "erased": 1,
+      "suffocate": 5,
+      "guess": 2,
+      "told": 6,
+      "admit": 1
+    },
+    "anteriores": {
+      "wasnt": 1,
+      "but": 11,
+      "and": 21,
+      "that": 13,
+      "null": 40,
+      "who": 1,
+      "middle": 6,
+      "no": 3,
+      "help": 2,
+      "else": 2,
+      "gone": 2,
+      "now": 15,
+      "own": 2,
+      "happy": 1,
+      "hope": 1,
+      "when": 11,
+      "if": 25,
+      "teeth": 4,
+      "think": 6,
+      "please": 4,
+      "know": 2,
+      "til": 1,
+      "i": 5,
+      "how": 5,
+      "thought": 1,
+      "someone": 1,
+      "forgiveness": 2,
+      "you": 6,
+      "yet": 2,
+      "do": 8,
+      "off": 1,
+      "bastard": 1,
+      "breath": 1,
+      "want": 4,
+      "sacred": 1,
+      "ago": 2,
+      "letter": 1,
+      "what": 1,
+      "mine": 1,
+      "image": 1,
+      "hate": 1,
+      "land": 1,
+      "more": 1,
+      "enough": 3,
+      "me": 3,
+      "moment": 2,
+      "wave": 6,
+      "boy": 1,
+      "cause": 1,
+      "longer": 3,
+      "car": 1,
+      "side": 1,
+      "to": 1,
+      "go": 2,
+      "chest": 1,
+      "guess": 1,
+      "believe": 1,
+      "all": 1,
+      "say": 6,
+      "least": 1,
+      "so": 2
+    }
+  },
+  "one": {
+    "siguientes": {
+      "who": 1,
+      "else": 4,
+      "sees": 1,
+      "whos": 1,
+      "to": 4,
+      "needs": 1,
+      "thought": 1,
+      "point": 1,
+      "breaks": 2
+    },
+    "anteriores": {
+      "the": 5,
+      "no": 9,
+      "only": 1,
+      "make": 1
+    }
+  },
+  "who": {
+    "siguientes": {
+      "said": 1,
+      "i": 1
+    },
+    "anteriores": {
+      "one": 1,
+      "of": 1
+    }
+  },
+  "said": {
+    "siguientes": {
+      "null": 2,
+      "that": 1,
+      "id": 1
+    },
+    "anteriores": {
+      "who": 1,
+      "you": 1,
+      "i": 1,
+      "never": 1
+    }
+  },
+  "keep": {
+    "siguientes": {
+      "your": 1,
+      "going": 6,
+      "holding": 6,
+      "putting": 1,
+      "it": 1,
+      "me": 1,
+      "on": 1,
+      "my": 1
+    },
+    "anteriores": {
+      "to": 7,
+      "gotta": 3,
+      "cant": 6,
+      "you": 2
+    }
+  },
+  "your": {
+    "siguientes": {
+      "feet": 1,
+      "heart": 2,
+      "hopes": 5,
+      "voice": 1,
+      "body": 1,
+      "life": 1,
+      "brain": 1,
+      "breath": 1,
+      "money": 1,
+      "faith": 2,
+      "superhuman": 4,
+      "hero": 1,
+      "savior": 1,
+      "pedestal": 1,
+      "eyes": 1,
+      "defenses": 1,
+      "silence": 2,
+      "quiet": 1,
+      "memory": 1
+    },
+    "anteriores": {
+      "keep": 1,
+      "break": 2,
+      "all": 3,
+      "cause": 1,
+      "from": 1,
+      "racking": 1,
+      "hold": 1,
+      "want": 1,
+      "put": 1,
+      "not": 4,
+      "got": 4,
+      "aint": 1,
+      "say": 1,
+      "throw": 1,
+      "in": 1,
+      "to": 1,
+      "with": 2,
+      "null": 1,
+      "of": 1
+    }
+  },
+  "feet": {
+    "siguientes": {
+      "on": 1
+    },
+    "anteriores": {
+      "your": 1
+    }
+  },
+  "on": {
+    "siguientes": {
+      "the": 4,
+      "my": 3,
+      "a": 1,
+      "to": 8,
+      "well": 2,
+      "null": 2,
+      "me": 2,
+      "and": 2,
+      "hoping": 1
+    },
+    "anteriores": {
+      "feet": 1,
+      "im": 2,
+      "stomping": 1,
+      "lay": 1,
+      "hang": 2,
+      "holding": 7,
+      "come": 2,
+      "me": 1,
+      "fall": 1,
+      "faith": 1,
+      "project": 1,
+      "stood": 1,
+      "raging": 2,
+      "look": 1,
+      "keep": 1
+    }
+  },
+  "ground": {
+    "siguientes": {
+      "man": 1,
+      "null": 4,
+      "when": 3
+    },
+    "anteriores": {
+      "the": 8
+    }
+  },
+  "brought": {
+    "siguientes": {
+      "me": 1
+    },
+    "anteriores": {
+      "really": 1
+    }
+  },
+  "me": {
+    "siguientes": {
+      "back": 1,
+      "null": 19,
+      "tied": 1,
+      "out": 7,
+      "down": 2,
+      "want": 2,
+      "a": 3,
+      "now": 1,
+      "by": 8,
+      "when": 3,
+      "how": 13,
+      "play": 3,
+      "frown": 1,
+      "bad": 1,
+      "all": 1,
+      "up": 3,
+      "that": 1,
+      "to": 1,
+      "with": 1,
+      "or": 1,
+      "open": 1,
+      "let": 3,
+      "on": 1,
+      "so": 4,
+      "know": 6,
+      "i": 3,
+      "sinking": 4,
+      "and": 11,
+      "nervous": 2,
+      "laugh": 2,
+      "cry": 5,
+      "here": 1,
+      "but": 1,
+      "dancing": 1,
+      "you": 1,
+      "say": 4,
+      "throw": 1,
+      "into": 6
+    },
+    "anteriores": {
+      "brought": 1,
+      "cost": 3,
+      "got": 3,
+      "hear": 1,
+      "bring": 1,
+      "makes": 2,
+      "call": 5,
+      "help": 1,
+      "sabotage": 8,
+      "sees": 1,
+      "believe": 4,
+      "ask": 3,
+      "make": 5,
+      "see": 2,
+      "hurt": 1,
+      "take": 2,
+      "tell": 14,
+      "for": 1,
+      "hit": 1,
+      "from": 1,
+      "rip": 1,
+      "let": 13,
+      "putting": 1,
+      "on": 2,
+      "like": 1,
+      "knew": 1,
+      "of": 2,
+      "kiss": 2,
+      "leave": 5,
+      "with": 5,
+      "in": 1,
+      "seeing": 1,
+      "hate": 1,
+      "keep": 1,
+      "told": 15,
+      "throw": 12,
+      "pull": 6
+    }
+  },
+  "back": {
+    "siguientes": {
+      "down": 1,
+      "cant": 1,
+      "underneath": 1,
+      "and": 1,
+      "in": 11,
+      "when": 1,
+      "to": 1,
+      "into": 16,
+      "null": 1
+    },
+    "anteriores": {
+      "me": 1,
+      "look": 1,
+      "crawl": 1,
+      "coming": 1,
+      "eyes": 1,
+      "bitpart": 1,
+      "swim": 1,
+      "dive": 13,
+      "right": 12,
+      "you": 1,
+      "null": 1
+    }
+  },
+  "hold": {
+    "siguientes": {
+      "onto": 4,
+      "your": 1
+    },
+    "anteriores": {
+      "null": 2,
+      "heart": 1,
+      "nobody": 1,
+      "dont": 1
+    }
+  },
+  "onto": {
+    "siguientes": {
+      "hope": 4
+    },
+    "anteriores": {
+      "hold": 4
+    }
+  },
+  "hope": {
+    "siguientes": {
+      "if": 4,
+      "i": 1
+    },
+    "anteriores": {
+      "onto": 4,
+      "better": 1
+    }
+  },
+  "if": {
+    "siguientes": {
+      "you": 9,
+      "i": 25,
+      "the": 5,
+      "its": 4,
+      "thats": 4,
+      "theres": 1,
+      "nothing": 1,
+      "youre": 2
+    },
+    "anteriores": {
+      "hope": 4,
+      "good": 1,
+      "hey": 2,
+      "null": 16,
+      "and": 8,
+      "sun": 1,
+      "care": 1,
+      "money": 1,
+      "what": 2,
+      "know": 1,
+      "you": 1,
+      "as": 3,
+      "backas": 1,
+      "head": 1,
+      "tame": 2,
+      "smile": 4,
+      "off": 1,
+      "maybe": 1
+    }
+  },
+  "got": {
+    "siguientes": {
+      "it": 4,
+      "me": 3,
+      "the": 2,
+      "problems": 1,
+      "your": 4,
+      "you": 4,
+      "is": 1,
+      "my": 1
+    },
+    "anteriores": {
+      "you": 9,
+      "all": 1,
+      "i": 9,
+      "ive": 1
+    }
+  },
+  "it": {
+    "siguientes": {
+      "dont": 2,
+      "go": 5,
+      "cost": 3,
+      "break": 1,
+      "null": 3,
+      "only": 1,
+      "just": 2,
+      "wont": 1,
+      "out": 1,
+      "yet": 5,
+      "down": 1,
+      "could": 1,
+      "twisted": 2,
+      "no": 1,
+      "is": 1,
+      "be": 5,
+      "take": 4,
+      "aint": 1,
+      "when": 2,
+      "sacred": 1,
+      "was": 2,
+      "feels": 1,
+      "then": 1,
+      "better": 2,
+      "over": 2,
+      "the": 2,
+      "into": 1,
+      "off": 1,
+      "enough": 1
+    },
+    "anteriores": {
+      "got": 4,
+      "let": 6,
+      "what": 3,
+      "old": 1,
+      "cause": 1,
+      "but": 2,
+      "wear": 1,
+      "do": 5,
+      "follow": 1,
+      "get": 5,
+      "forget": 1,
+      "like": 1,
+      "could": 5,
+      "around": 1,
+      "did": 4,
+      "and": 1,
+      "kick": 2,
+      "keep": 1,
+      "felt": 1,
+      "how": 1,
+      "thought": 1,
+      "of": 1,
+      "is": 3,
+      "break": 2,
+      "turning": 1,
+      "over": 1
+    }
+  },
+  "dont": {
+    "siguientes": {
+      "let": 6,
+      "wear": 1,
+      "need": 8,
+      "blink": 1,
+      "ask": 3,
+      "make": 5,
+      "pick": 1,
+      "see": 1,
+      "you": 2,
+      "even": 1,
+      "know": 4,
+      "hold": 1,
+      "want": 6,
+      "we": 2,
+      "leave": 2,
+      "have": 2
+    },
+    "anteriores": {
+      "it": 2,
+      "null": 4,
+      "you": 6,
+      "i": 17,
+      "please": 2,
+      "been": 3,
+      "just": 1,
+      "still": 4,
+      "something": 1,
+      "problems": 1,
+      "heroes": 1,
+      "la": 2,
+      "girl": 2
+    }
+  },
+  "let": {
+    "siguientes": {
+      "it": 6,
+      "the": 3,
+      "me": 13,
+      "you": 12,
+      "all": 1,
+      "ambition": 1,
+      "go": 8
+    },
+    "anteriores": {
+      "dont": 6,
+      "so": 1,
+      "and": 1,
+      "just": 6,
+      "me": 3,
+      "to": 11,
+      "can": 1,
+      "i": 2,
+      "ill": 1,
+      "wont": 1,
+      "please": 1,
+      "oh": 5,
+      "or": 5
+    }
+  },
+  "go": {
+    "siguientes": {
+      "for": 4,
+      "null": 7,
+      "out": 1,
+      "and": 2,
+      "by": 1,
+      "gimme": 1,
+      "of": 3,
+      "blind": 1,
+      "i": 2
+    },
+    "anteriores": {
+      "it": 5,
+      "to": 1,
+      "i": 2,
+      "you": 2,
+      "years": 1,
+      "let": 8,
+      "wanna": 1,
+      "they": 2
+    }
+  },
+  "for": {
+    "siguientes": {
+      "nobody": 4,
+      "the": 1,
+      "me": 1,
+      "a": 2,
+      "all": 1
+    },
+    "anteriores": {
+      "go": 4,
+      "forest": 1,
+      "alright": 1,
+      "next": 1,
+      "null": 2
+    }
+  },
+  "nobody": {
+    "siguientes": {
+      "null": 2,
+      "hold": 1,
+      "and": 1
+    },
+    "anteriores": {
+      "for": 4
+    }
+  },
+  "they": {
+    "siguientes": {
+      "say": 9,
+      "knew": 1,
+      "see": 1,
+      "know": 1,
+      "go": 2,
+      "love": 6,
+      "told": 12
+    },
+    "anteriores": {
+      "and": 5,
+      "thought": 1,
+      "what": 1,
+      "like": 1,
+      "but": 3,
+      "say": 18,
+      "so": 1,
+      "null": 2
+    }
+  },
+  "say": {
+    "siguientes": {
+      "that": 3,
+      "something": 1,
+      "your": 1,
+      "thats": 1,
+      "we": 1,
+      "well": 1,
+      "my": 1,
+      "i": 6,
+      "they": 18,
+      "you": 6
+    },
+    "anteriores": {
+      "they": 9,
+      "to": 14,
+      "youll": 1,
+      "you": 8,
+      "i": 1,
+      "null": 2,
+      "me": 4
+    }
+  },
+  "that": {
+    "siguientes": {
+      "dreaming": 3,
+      "i": 13,
+      "simple": 3,
+      "im": 7,
+      "runs": 2,
+      "null": 2,
+      "ill": 2,
+      "ive": 5,
+      "weve": 1,
+      "you": 1,
+      "youre": 1,
+      "most": 2,
+      "noise": 1
+    },
+    "anteriores": {
+      "say": 3,
+      "places": 1,
+      "not": 3,
+      "said": 1,
+      "and": 1,
+      "thread": 1,
+      "you": 4,
+      "afraid": 2,
+      "be": 5,
+      "feel": 1,
+      "all": 3,
+      "me": 1,
+      "alright": 1,
+      "null": 5,
+      "pedestal": 1,
+      "know": 1,
+      "song": 1,
+      "made": 1,
+      "now": 4,
+      "insisting": 1,
+      "think": 1,
+      "admit": 1
+    }
+  },
+  "dreaming": {
+    "siguientes": {
+      "is": 3
+    },
+    "anteriores": {
+      "that": 3
+    }
+  },
+  "is": {
+    "siguientes": {
+      "free": 3,
+      "good": 1,
+      "what": 1,
+      "just": 2,
+      "fake": 4,
+      "a": 4,
+      "not": 2,
+      "the": 2,
+      "to": 1,
+      "it": 3,
+      "over": 1,
+      "yet": 1
+    },
+    "anteriores": {
+      "dreaming": 3,
+      "dream": 1,
+      "get": 1,
+      "here": 5,
+      "voice": 1,
+      "word": 1,
+      "forgiving": 2,
+      "it": 1,
+      "time": 1,
+      "want": 2,
+      "wonder": 2,
+      "got": 1,
+      "silence": 1,
+      "best": 1,
+      "worst": 1,
+      "null": 1
+    }
+  },
+  "free": {
+    "siguientes": {
+      "but": 2,
+      "null": 2
+    },
+    "anteriores": {
+      "is": 3,
+      "most": 1
+    }
+  },
+  "but": {
+    "siguientes": {
+      "i": 11,
+      "its": 3,
+      "it": 2,
+      "im": 1,
+      "no": 1,
+      "arent": 1,
+      "rest": 1,
+      "we": 1,
+      "the": 1,
+      "why": 2,
+      "this": 2,
+      "boy": 1,
+      "they": 3
+    },
+    "anteriores": {
+      "free": 2,
+      "up": 1,
+      "null": 14,
+      "going": 3,
+      "cool": 1,
+      "forgiveness": 1,
+      "alright": 1,
+      "we": 1,
+      "coat": 1,
+      "touch": 1,
+      "ending": 1,
+      "now": 1,
+      "me": 1,
+      "so": 1
+    }
+  },
+  "wouldnt": {
+    "siguientes": {
+      "care": 3
+    },
+    "anteriores": {
+      "i": 3
+    }
+  },
+  "care": {
+    "siguientes": {
+      "what": 3,
+      "if": 1
+    },
+    "anteriores": {
+      "wouldnt": 3,
+      "even": 1
+    }
+  },
+  "what": {
+    "siguientes": {
+      "it": 3,
+      "you": 7,
+      "if": 2,
+      "little": 1,
+      "i": 1,
+      "they": 1,
+      "happens": 4,
+      "else": 2,
+      "was": 1
+    },
+    "anteriores": {
+      "care": 3,
+      "believe": 1,
+      "is": 1,
+      "break": 1,
+      "thats": 5,
+      "null": 2,
+      "face": 1,
+      "realizing": 1,
+      "see": 4,
+      "forget": 2,
+      "off": 1
+    }
+  },
+  "cost": {
+    "siguientes": {
+      "me": 3
+    },
+    "anteriores": {
+      "it": 3
+    }
+  },
+  "tied": {
+    "siguientes": {
+      "up": 1
+    },
+    "anteriores": {
+      "me": 1
+    }
+  },
+  "up": {
+    "siguientes": {
+      "but": 1,
+      "my": 2,
+      "and": 4,
+      "when": 1,
+      "maybe": 1,
+      "to": 1,
+      "null": 9,
+      "pick": 3,
+      "a": 1,
+      "or": 2,
+      "fine": 1,
+      "now": 4,
+      "couldve": 1,
+      "you": 2,
+      "with": 1
+    },
+    "anteriores": {
+      "tied": 1,
+      "dress": 1,
+      "draw": 1,
+      "wake": 2,
+      "pick": 7,
+      "look": 1,
+      "all": 1,
+      "give": 2,
+      "me": 3,
+      "hopes": 4,
+      "giving": 10,
+      "given": 1
+    }
+  },
+  "stay": {
+    "siguientes": {
+      "close": 1,
+      "pissed": 1,
+      "in": 1
+    },
+    "anteriores": {
+      "i": 1,
+      "to": 1,
+      "wanna": 1
+    }
+  },
+  "close": {
+    "siguientes": {
+      "to": 2
+    },
+    "anteriores": {
+      "stay": 1,
+      "even": 1
+    }
+  },
+  "window": {
+    "siguientes": {
+      "and": 1,
+      "shades": 1
+    },
+    "anteriores": {
+      "the": 2
+    }
+  },
+  "talk": {
+    "siguientes": {
+      "to": 1
+    },
+    "anteriores": {
+      "i": 1
+    }
+  },
+  "myself": {
+    "siguientes": {
+      "about": 1,
+      "null": 11,
+      "in": 1
+    },
+    "anteriores": {
+      "to": 3,
+      "by": 8,
+      "see": 1,
+      "in": 1
+    }
+  },
+  "about": {
+    "siguientes": {
+      "the": 2,
+      "you": 10
+    },
+    "anteriores": {
+      "myself": 1,
+      "noise": 1,
+      "feel": 10
+    }
+  },
+  "places": {
+    "siguientes": {
+      "that": 1,
+      "null": 1
+    },
+    "anteriores": {
+      "the": 1,
+      "hopeless": 1
+    }
+  },
+  "used": {
+    "siguientes": {
+      "to": 4
+    },
+    "anteriores": {
+      "i": 1,
+      "we": 1,
+      "get": 2
+    }
+  },
+  "im": {
+    "siguientes": {
+      "hoping": 1,
+      "just": 4,
+      "a": 3,
+      "caught": 4,
+      "on": 2,
+      "so": 2,
+      "quite": 1,
+      "stomping": 1,
+      "gonna": 5,
+      "happy": 1,
+      "afraid": 2,
+      "alright": 1,
+      "coming": 2,
+      "supposed": 1,
+      "not": 7,
+      "no": 3,
+      "underwater": 8,
+      "giving": 8,
+      "right": 1,
+      "tired": 1,
+      "getting": 1,
+      "thrown": 1
+    },
+    "anteriores": {
+      "null": 13,
+      "think": 5,
+      "yeah": 3,
+      "and": 10,
+      "else": 2,
+      "middle": 1,
+      "but": 1,
+      "when": 2,
+      "see": 1,
+      "that": 7,
+      "forgiveness": 2,
+      "friends": 2,
+      "like": 1,
+      "baby": 4,
+      "cause": 2,
+      "sinking": 1,
+      "you": 1,
+      "oh": 1,
+      "nervous": 1
+    }
+  },
+  "hoping": {
+    "siguientes": {
+      "someday": 1,
+      "eh": 4,
+      "when": 1
+    },
+    "anteriores": {
+      "im": 1,
+      "you": 4,
+      "on": 1
+    }
+  },
+  "someday": {
+    "siguientes": {
+      "maybe": 1
+    },
+    "anteriores": {
+      "hoping": 1
+    }
+  },
+  "maybe": {
+    "siguientes": {
+      "ill": 4,
+      "if": 1
+    },
+    "anteriores": {
+      "someday": 1,
+      "floor": 1,
+      "up": 1,
+      "lightning": 1,
+      "well": 1
+    }
+  },
+  "ill": {
+    "siguientes": {
+      "just": 1,
+      "forget": 1,
+      "wake": 1,
+      "never": 2,
+      "have": 2,
+      "come": 1,
+      "let": 1,
+      "dive": 12,
+      "choke": 1,
+      "null": 1
+    },
+    "anteriores": {
+      "maybe": 4,
+      "and": 1,
+      "that": 2,
+      "no": 1,
+      "so": 1,
+      "survive": 6,
+      "null": 4,
+      "in": 2,
+      "laugh": 2
+    }
+  },
+  "just": {
+    "siguientes": {
+      "float": 1,
+      "makes": 1,
+      "a": 4,
+      "going": 1,
+      "as": 1,
+      "dont": 1,
+      "cant": 5,
+      "be": 1,
+      "to": 2,
+      "pick": 3,
+      "let": 6,
+      "know": 1,
+      "hang": 5,
+      "killed": 1,
+      "starting": 1
+    },
+    "anteriores": {
+      "ill": 1,
+      "it": 2,
+      "im": 4,
+      "while": 1,
+      "is": 2,
+      "please": 1,
+      "i": 6,
+      "we": 4,
+      "brain": 1,
+      "to": 1,
+      "la": 1,
+      "then": 1,
+      "pressure": 5,
+      "null": 3,
+      "boy": 1
+    }
+  },
+  "float": {
+    "siguientes": {
+      "away": 1
+    },
+    "anteriores": {
+      "just": 1
+    }
+  },
+  "away": {
+    "siguientes": {
+      "and": 1,
+      "all": 1
+    },
+    "anteriores": {
+      "float": 1,
+      "life": 1
+    }
+  },
+  "forget": {
+    "siguientes": {
+      "every": 1,
+      "it": 1,
+      "what": 2
+    },
+    "anteriores": {
+      "ill": 1,
+      "never": 1,
+      "could": 2
+    }
+  },
+  "every": {
+    "siguientes": {
+      "cynical": 1,
+      "word": 1
+    },
+    "anteriores": {
+      "forget": 1,
+      "gun": 1
+    }
+  },
+  "cynical": {
+    "siguientes": {
+      "thing": 1
+    },
+    "anteriores": {
+      "every": 1
+    }
+  },
+  "thing": {
+    "siguientes": {
+      "you": 1,
+      "like": 1
+    },
+    "anteriores": {
+      "cynical": 1,
+      "a": 1
+    }
+  },
+  "when": {
+    "siguientes": {
+      "you": 8,
+      "all": 1,
+      "im": 2,
+      "i": 11,
+      "things": 1,
+      "id": 1,
+      "we": 2,
+      "its": 1,
+      "this": 1,
+      "the": 1
+    },
+    "anteriores": {
+      "null": 6,
+      "alive": 1,
+      "easy": 1,
+      "me": 3,
+      "known": 1,
+      "thats": 1,
+      "up": 1,
+      "did": 2,
+      "laugh": 4,
+      "it": 2,
+      "ground": 3,
+      "get": 1,
+      "back": 1,
+      "hoping": 1,
+      "cool": 1
+    }
+  },
+  "gonna": {
+    "siguientes": {
+      "hear": 1,
+      "draw": 1,
+      "die": 1,
+      "make": 4,
+      "take": 4,
+      "be": 4
+    },
+    "anteriores": {
+      "you": 1,
+      "im": 5,
+      "aint": 1,
+      "times": 6,
+      "null": 2
+    }
+  },
+  "hear": {
+    "siguientes": {
+      "me": 1,
+      "you": 1
+    },
+    "anteriores": {
+      "gonna": 1,
+      "i": 1
+    }
+  },
+  "out": {
+    "siguientes": {
+      "man": 1,
+      "null": 2,
+      "tonight": 1,
+      "to": 2,
+      "again": 6
+    },
+    "anteriores": {
+      "me": 7,
+      "it": 1,
+      "go": 1,
+      "come": 1,
+      "further": 2
+    }
+  },
+  "bring": {
+    "siguientes": {
+      "me": 1
+    },
+    "anteriores": {
+      "really": 1
+    }
+  },
+  "reality": {
+    "siguientes": {
+      "will": 1
+    },
+    "anteriores": {
+      "null": 1
+    }
+  },
+  "will": {
+    "siguientes": {
+      "break": 1,
+      "not": 1,
+      "we": 1
+    },
+    "anteriores": {
+      "reality": 1,
+      "survival": 1,
+      "down": 1
+    }
+  },
+  "break": {
+    "siguientes": {
+      "your": 2,
+      "what": 1,
+      "my": 1,
+      "it": 2
+    },
+    "anteriores": {
+      "will": 1,
+      "it": 1,
+      "cant": 1,
+      "wont": 1,
+      "to": 2
+    }
+  },
+  "heart": {
+    "siguientes": {
+      "survival": 1,
+      "hold": 1,
+      "attack": 1,
+      "and": 1,
+      "like": 2
+    },
+    "anteriores": {
+      "your": 2,
+      "another": 1,
+      "butchers": 1,
+      "my": 2
+    }
+  },
+  "survival": {
+    "siguientes": {
+      "will": 1
+    },
+    "anteriores": {
+      "heart": 1
+    }
+  },
+  "not": {
+    "siguientes": {
+      "be": 2,
+      "that": 3,
+      "forgetting": 3,
+      "the": 1,
+      "as": 1,
+      "a": 2,
+      "your": 4,
+      "into": 2
+    },
+    "anteriores": {
+      "will": 1,
+      "its": 4,
+      "is": 2,
+      "youre": 2,
+      "theres": 1,
+      "im": 7,
+      "may": 1
+    }
+  },
+  "be": {
+    "siguientes": {
+      "the": 5,
+      "alright": 1,
+      "that": 5,
+      "sure": 1,
+      "appreciated": 1,
+      "even": 1,
+      "more": 1,
+      "like": 4
+    },
+    "anteriores": {
+      "not": 2,
+      "just": 1,
+      "it": 5,
+      "hopeless": 1,
+      "gonna": 4,
+      "would": 1,
+      "actually": 1,
+      "cant": 4
+    }
+  },
+  "hardest": {
+    "siguientes": {
+      "part": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "part": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "hardest": 1
+    }
+  },
+  "its": {
+    "siguientes": {
+      "keeping": 1,
+      "not": 4,
+      "over": 2,
+      "easy": 1,
+      "all": 2,
+      "been": 1,
+      "alright": 1,
+      "such": 1,
+      "okay": 1,
+      "safe": 1,
+      "good": 1
+    },
+    "anteriores": {
+      "null": 3,
+      "but": 3,
+      "see": 1,
+      "if": 4,
+      "no": 1,
+      "when": 1,
+      "oh": 1,
+      "think": 1,
+      "guess": 1
+    }
+  },
+  "keeping": {
+    "siguientes": {
+      "all": 1
+    },
+    "anteriores": {
+      "its": 1
+    }
+  },
+  "hopes": {
+    "siguientes": {
+      "alive": 1,
+      "up": 4
+    },
+    "anteriores": {
+      "your": 5
+    }
+  },
+  "alive": {
+    "siguientes": {
+      "when": 1,
+      "null": 1
+    },
+    "anteriores": {
+      "hopes": 1,
+      "come": 1
+    }
+  },
+  "rest": {
+    "siguientes": {
+      "of": 1,
+      "assured": 1,
+      "have": 1
+    },
+    "anteriores": {
+      "the": 2,
+      "but": 1
+    }
+  },
+  "of": {
+    "siguientes": {
+      "you": 3,
+      "getting": 2,
+      "who": 1,
+      "my": 2,
+      "makin": 1,
+      "sign": 1,
+      "orange": 1,
+      "stone": 1,
+      "sins": 1,
+      "yours": 3,
+      "mine": 5,
+      "peoples": 1,
+      "the": 4,
+      "me": 2,
+      "it": 1,
+      "us": 2,
+      "our": 2,
+      "all": 1,
+      "your": 1
+    },
+    "anteriores": {
+      "rest": 1,
+      "think": 3,
+      "lids": 1,
+      "job": 1,
+      "sort": 1,
+      "touch": 1,
+      "pedestal": 1,
+      "original": 1,
+      "savior": 3,
+      "friend": 5,
+      "reflection": 1,
+      "go": 3,
+      "comes": 1,
+      "left": 3,
+      "end": 3,
+      "fantasy": 2,
+      "tired": 1,
+      "sick": 1,
+      "quiet": 1,
+      "fog": 1
+    }
+  },
+  "has": {
+    "siguientes": {
+      "died": 1
+    },
+    "anteriores": {
+      "you": 1
+    }
+  },
+  "died": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "has": 1
+    }
+  },
+  "so": {
+    "siguientes": {
+      "let": 1,
+      "fake": 3,
+      "much": 3,
+      "brave": 1,
+      "long": 4,
+      "throw": 1,
+      "ill": 1,
+      "before": 1,
+      "lets": 1,
+      "annoyed": 1,
+      "but": 1,
+      "null": 5,
+      "they": 1,
+      "i": 2
+    },
+    "anteriores": {
+      "null": 2,
+      "im": 2,
+      "feel": 1,
+      "all": 1,
+      "waste": 3,
+      "we": 1,
+      "take": 2,
+      "us": 2,
+      "down": 1,
+      "me": 4,
+      "waiting": 1,
+      "you": 6
+    }
+  },
+  "cant": {
+    "siguientes": {
+      "think": 2,
+      "look": 2,
+      "see": 1,
+      "do": 7,
+      "break": 1,
+      "give": 6,
+      "keep": 6,
+      "be": 4,
+      "call": 2,
+      "hate": 1,
+      "believe": 1
+    },
+    "anteriores": {
+      "i": 14,
+      "null": 2,
+      "back": 1,
+      "just": 5,
+      "you": 1,
+      "we": 6,
+      "all": 4
+    }
+  },
+  "think": {
+    "siguientes": {
+      "of": 3,
+      "im": 5,
+      "i": 6,
+      "its": 1,
+      "that": 1
+    },
+    "anteriores": {
+      "cant": 2,
+      "i": 7,
+      "em": 1,
+      "you": 2,
+      "eh": 1,
+      "chance": 2,
+      "ever": 1
+    }
+  },
+  "getting": {
+    "siguientes": {
+      "old": 1,
+      "too": 1,
+      "over": 1,
+      "sick": 1
+    },
+    "anteriores": {
+      "of": 2,
+      "are": 1,
+      "im": 1
+    }
+  },
+  "old": {
+    "siguientes": {
+      "it": 1,
+      "letters": 1
+    },
+    "anteriores": {
+      "getting": 1,
+      "these": 1
+    }
+  },
+  "only": {
+    "siguientes": {
+      "makes": 1,
+      "one": 1
+    },
+    "anteriores": {
+      "it": 1,
+      "the": 1
+    }
+  },
+  "makes": {
+    "siguientes": {
+      "me": 2
+    },
+    "anteriores": {
+      "only": 1,
+      "just": 1
+    }
+  },
+  "want": {
+    "siguientes": {
+      "to": 7,
+      "forgiveness": 5,
+      "is": 2,
+      "your": 1,
+      "i": 4,
+      "you": 1,
+      "anybody": 1
+    },
+    "anteriores": {
+      "me": 2,
+      "you": 10,
+      "i": 3,
+      "dont": 6
+    }
+  },
+  "die": {
+    "siguientes": {
+      "null": 2
+    },
+    "anteriores": {
+      "to": 1,
+      "gonna": 1
+    }
+  },
+  "cause": {
+    "siguientes": {
+      "it": 1,
+      "your": 1,
+      "we": 5,
+      "now": 1,
+      "im": 2,
+      "no": 2,
+      "i": 1,
+      "cause": 1,
+      "ive": 1
+    },
+    "anteriores": {
+      "was": 1,
+      "null": 3,
+      "again": 5,
+      "kids": 2,
+      "new": 1,
+      "annoyed": 1,
+      "lost": 1,
+      "cause": 1
+    }
+  },
+  "cry": {
+    "siguientes": {
+      "cry": 3,
+      "null": 6,
+      "another": 1,
+      "these": 1,
+      "a": 4,
+      "now": 1
+    },
+    "anteriores": {
+      "to": 1,
+      "cry": 3,
+      "couldnt": 1,
+      "we": 2,
+      "you": 4,
+      "me": 5
+    }
+  },
+  "look": {
+    "siguientes": {
+      "back": 1,
+      "too": 1,
+      "alright": 1,
+      "up": 1,
+      "a": 1,
+      "on": 1
+    },
+    "anteriores": {
+      "cant": 2,
+      "i": 1,
+      "never": 1,
+      "doesnt": 1,
+      "gotta": 1
+    }
+  },
+  "too": {
+    "siguientes": {
+      "far": 1,
+      "null": 6,
+      "oh": 1,
+      "long": 1,
+      "dark": 1,
+      "my": 1
+    },
+    "anteriores": {
+      "look": 1,
+      "happy": 4,
+      "runs": 1,
+      "rosecolored": 4,
+      "getting": 1
+    }
+  },
+  "far": {
+    "siguientes": {
+      "ahead": 1
+    },
+    "anteriores": {
+      "too": 1
+    }
+  },
+  "ahead": {
+    "siguientes": {
+      "you": 1
+    },
+    "anteriores": {
+      "far": 1
+    }
+  },
+  "point": {
+    "siguientes": {
+      "you": 1,
+      "crystal": 1
+    },
+    "anteriores": {
+      "the": 1,
+      "one": 1
+    }
+  },
+  "message": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "a": {
+    "siguientes": {
+      "little": 12,
+      "quitter": 3,
+      "dream": 1,
+      "good": 1,
+      "beat": 1,
+      "gun": 1,
+      "bullet": 1,
+      "hole": 2,
+      "thread": 1,
+      "bastard": 1,
+      "fight": 1,
+      "girl": 1,
+      "single": 1,
+      "long": 1,
+      "mistake": 1,
+      "thing": 1,
+      "null": 1,
+      "touch": 1,
+      "nickel": 1,
+      "semiconscious": 1,
+      "cast": 1,
+      "butchers": 1,
+      "floodlit": 2,
+      "shirt": 2,
+      "bear": 1,
+      "fur": 1,
+      "waterfall": 1,
+      "moment": 2,
+      "half": 2,
+      "lost": 1,
+      "lot": 1,
+      "joke": 1,
+      "stranger": 1,
+      "fire": 1
+    },
+    "anteriores": {
+      "just": 4,
+      "im": 3,
+      "me": 3,
+      "now": 1,
+      "doing": 1,
+      "on": 1,
+      "is": 4,
+      "shot": 1,
+      "still": 1,
+      "up": 1,
+      "not": 2,
+      "such": 1,
+      "make": 1,
+      "okay": 1,
+      "look": 1,
+      "to": 1,
+      "star": 1,
+      "drop": 1,
+      "null": 3,
+      "in": 1,
+      "had": 1,
+      "see": 4,
+      "saw": 1,
+      "was": 1,
+      "toward": 1,
+      "for": 2,
+      "cry": 4,
+      "through": 1,
+      "into": 2,
+      "here": 1,
+      "you": 1
+    }
+  },
+  "little": {
+    "siguientes": {
+      "bit": 11,
+      "raincloud": 1,
+      "grace": 1,
+      "light": 1,
+      "ocean": 2
+    },
+    "anteriores": {
+      "a": 12,
+      "my": 1,
+      "what": 1,
+      "our": 2
+    }
+  },
+  "bit": {
+    "siguientes": {
+      "caught": 6,
+      "longer": 5
+    },
+    "anteriores": {
+      "little": 11
+    }
+  },
+  "caught": {
+    "siguientes": {
+      "in": 10
+    },
+    "anteriores": {
+      "bit": 6,
+      "im": 4
+    }
+  },
+  "middle": {
+    "siguientes": {
+      "i": 6,
+      "null": 3,
+      "im": 1
+    },
+    "anteriores": {
+      "the": 10
+    }
+  },
+  "try": {
+    "siguientes": {
+      "to": 3,
+      "null": 4,
+      "hard": 1
+    },
+    "anteriores": {
+      "i": 4,
+      "even": 4
+    }
+  },
+  "going": {
+    "siguientes": {
+      "but": 3,
+      "or": 3,
+      "blind": 1,
+      "good": 1
+    },
+    "anteriores": {
+      "keep": 6,
+      "just": 1,
+      "were": 1
+    }
+  },
+  "simple": {
+    "siguientes": {
+      "null": 3
+    },
+    "anteriores": {
+      "that": 3
+    }
+  },
+  "gotta": {
+    "siguientes": {
+      "keep": 3,
+      "get": 2,
+      "hit": 1,
+      "look": 1
+    },
+    "anteriores": {
+      "i": 6,
+      "we": 1
+    }
+  },
+  "or": {
+    "siguientes": {
+      "theyll": 3,
+      "did": 2,
+      "come": 2,
+      "rip": 1,
+      "happy": 2,
+      "let": 5
+    },
+    "anteriores": {
+      "going": 3,
+      "changed": 2,
+      "up": 2,
+      "me": 1,
+      "chance": 2,
+      "suffocate": 5
+    }
+  },
+  "theyll": {
+    "siguientes": {
+      "call": 3,
+      "never": 1
+    },
+    "anteriores": {
+      "or": 3,
+      "low": 1
+    }
+  },
+  "call": {
+    "siguientes": {
+      "me": 5,
+      "null": 1,
+      "you": 2
+    },
+    "anteriores": {
+      "theyll": 3,
+      "you": 1,
+      "wanna": 2,
+      "cant": 2
+    }
+  },
+  "quitter": {
+    "siguientes": {
+      "null": 3
+    },
+    "anteriores": {
+      "a": 3
+    }
+  },
+  "yeah": {
+    "siguientes": {
+      "im": 3
+    },
+    "anteriores": {
+      "null": 3
+    }
+  },
+  "dreamin": {
+    "siguientes": {
+      "life": 1
+    },
+    "anteriores": {
+      "was": 1
+    }
+  },
+  "life": {
+    "siguientes": {
+      "away": 1,
+      "to": 1
+    },
+    "anteriores": {
+      "dreamin": 1,
+      "your": 1
+    }
+  },
+  "while": {
+    "siguientes": {
+      "just": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "blind": {
+    "siguientes": {
+      "null": 2
+    },
+    "anteriores": {
+      "going": 1,
+      "go": 1
+    }
+  },
+  "see": {
+    "siguientes": {
+      "the": 1,
+      "null": 1,
+      "its": 1,
+      "im": 1,
+      "me": 2,
+      "an": 1,
+      "youre": 1,
+      "a": 4,
+      "myself": 1,
+      "may": 1,
+      "in": 1,
+      "what": 4,
+      "and": 1
+    },
+    "anteriores": {
+      "cant": 1,
+      "you": 5,
+      "null": 1,
+      "never": 1,
+      "dont": 1,
+      "youll": 1,
+      "i": 4,
+      "they": 1,
+      "could": 2,
+      "to": 3
+    }
+  },
+  "forest": {
+    "siguientes": {
+      "for": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "trees": {
+    "siguientes": {
+      "behind": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "behind": {
+    "siguientes": {
+      "the": 2,
+      "our": 1
+    },
+    "anteriores": {
+      "trees": 1,
+      "sky": 1,
+      "ends": 1
+    }
+  },
+  "lids": {
+    "siguientes": {
+      "of": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "my": {
+    "siguientes": {
+      "own": 4,
+      "teeth": 4,
+      "fears": 1,
+      "lipstick": 1,
+      "mouth": 1,
+      "hand": 1,
+      "faults": 1,
+      "neck": 1,
+      "side": 1,
+      "little": 1,
+      "head": 3,
+      "friends": 2,
+      "face": 1,
+      "dull": 1,
+      "drivers": 1,
+      "friend": 1,
+      "heart": 2,
+      "lungs": 8,
+      "eyes": 9,
+      "weather": 5,
+      "glasses": 2,
+      "rope": 1,
+      "rosecolored": 4,
+      "mind": 1,
+      "chest": 1,
+      "cool": 1
+    },
+    "anteriores": {
+      "of": 2,
+      "on": 3,
+      "with": 5,
+      "up": 2,
+      "than": 1,
+      "shaking": 1,
+      "all": 1,
+      "break": 1,
+      "by": 1,
+      "over": 1,
+      "tell": 2,
+      "drown": 1,
+      "null": 10,
+      "and": 6,
+      "breaks": 2,
+      "in": 10,
+      "lungs": 2,
+      "taken": 2,
+      "say": 1,
+      "seen": 1,
+      "too": 1,
+      "off": 1,
+      "got": 1,
+      "keep": 1
+    }
+  },
+  "own": {
+    "siguientes": {
+      "eyes": 1,
+      "i": 2,
+      "houses": 1,
+      "convictions": 1
+    },
+    "anteriores": {
+      "my": 4,
+      "their": 1
+    }
+  },
+  "eyes": {
+    "siguientes": {
+      "null": 1,
+      "back": 1,
+      "realizing": 1,
+      "are": 9
+    },
+    "anteriores": {
+      "own": 1,
+      "your": 1,
+      "peoples": 1,
+      "my": 9
+    }
+  },
+  "nostalgias": {
+    "siguientes": {
+      "cool": 1
+    },
+    "anteriores": {
+      "null": 1
+    }
+  },
+  "cool": {
+    "siguientes": {
+      "but": 1,
+      "when": 1
+    },
+    "anteriores": {
+      "nostalgias": 1,
+      "my": 1
+    }
+  },
+  "wont": {
+    "siguientes": {
+      "help": 1,
+      "break": 1,
+      "let": 1,
+      "leave": 2,
+      "replace": 1
+    },
+    "anteriores": {
+      "it": 1,
+      "i": 2,
+      "coat": 1,
+      "you": 2
+    }
+  },
+  "help": {
+    "siguientes": {
+      "me": 1,
+      "i": 2,
+      "all": 2
+    },
+    "anteriores": {
+      "wont": 1,
+      "no": 4
+    }
+  },
+  "now": {
+    "siguientes": {
+      "a": 1,
+      "i": 15,
+      "ooh": 1,
+      "that": 4,
+      "null": 6,
+      "but": 1,
+      "oh": 1,
+      "tell": 4
+    },
+    "anteriores": {
+      "me": 1,
+      "over": 2,
+      "happy": 1,
+      "cause": 1,
+      "up": 4,
+      "you": 16,
+      "null": 6,
+      "cry": 1,
+      "dark": 1
+    }
+  },
+  "dream": {
+    "siguientes": {
+      "is": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "good": {
+    "siguientes": {
+      "if": 1,
+      "job": 1,
+      "and": 1,
+      "thats": 1,
+      "to": 1
+    },
+    "anteriores": {
+      "is": 1,
+      "a": 1,
+      "doing": 1,
+      "going": 1,
+      "its": 1
+    }
+  },
+  "wear": {
+    "siguientes": {
+      "it": 1
+    },
+    "anteriores": {
+      "dont": 1
+    }
+  },
+  "no": {
+    "siguientes": {
+      "i": 3,
+      "help": 4,
+      "one": 9,
+      "oh": 4,
+      "coming": 1,
+      "its": 1,
+      "ill": 1,
+      "null": 1,
+      "savior": 3,
+      "friend": 5,
+      "air": 8,
+      "pressure": 5,
+      "ones": 1
+    },
+    "anteriores": {
+      "null": 4,
+      "need": 8,
+      "but": 1,
+      "oh": 6,
+      "time": 1,
+      "forgetting": 1,
+      "it": 1,
+      "knows": 1,
+      "and": 2,
+      "im": 3,
+      "youre": 5,
+      "cause": 2,
+      "underwater": 6,
+      "lowkey": 5
+    }
+  },
+  "need": {
+    "siguientes": {
+      "no": 8,
+      "heroes": 1,
+      "to": 1
+    },
+    "anteriores": {
+      "dont": 8,
+      "all": 1,
+      "we": 1
+    }
+  },
+  "can": {
+    "siguientes": {
+      "sabotage": 8,
+      "barely": 2,
+      "feel": 1,
+      "tell": 1,
+      "let": 1,
+      "give": 1,
+      "shatter": 2,
+      "still": 1
+    },
+    "anteriores": {
+      "i": 13,
+      "you": 1,
+      "we": 1,
+      "illusion": 2
+    }
+  },
+  "sabotage": {
+    "siguientes": {
+      "me": 8
+    },
+    "anteriores": {
+      "can": 8
+    }
+  },
+  "by": {
+    "siguientes": {
+      "myself": 8,
+      "without": 1,
+      "my": 1,
+      "you": 1
+    },
+    "anteriores": {
+      "me": 8,
+      "go": 1,
+      "you": 1,
+      "right": 1
+    }
+  },
+  "else": {
+    "siguientes": {
+      "i": 2,
+      "im": 2,
+      "was": 2
+    },
+    "anteriores": {
+      "one": 4,
+      "what": 2
+    }
+  },
+  "glory": {
+    "siguientes": {
+      "days": 2
+    },
+    "anteriores": {
+      "the": 2
+    }
+  },
+  "days": {
+    "siguientes": {
+      "are": 2
+    },
+    "anteriores": {
+      "glory": 2
+    }
+  },
+  "are": {
+    "siguientes": {
+      "gone": 2,
+      "low": 1,
+      "we": 1,
+      "you": 2,
+      "grateful": 1,
+      "open": 8,
+      "the": 8,
+      "raging": 2,
+      "getting": 1
+    },
+    "anteriores": {
+      "days": 2,
+      "lights": 1,
+      "null": 1,
+      "alright": 1,
+      "and": 1,
+      "we": 1,
+      "eyes": 9,
+      "you": 8,
+      "wars": 2
+    }
+  },
+  "gone": {
+    "siguientes": {
+      "i": 2
+    },
+    "anteriores": {
+      "are": 2
+    }
+  },
+  "over": {
+    "siguientes": {
+      "now": 2,
+      "come": 2,
+      "my": 1,
+      "purgatory": 1,
+      "with": 2,
+      "it": 1,
+      "and": 1
+    },
+    "anteriores": {
+      "its": 2,
+      "come": 2,
+      "hanging": 1,
+      "orange": 1,
+      "it": 2,
+      "getting": 1,
+      "is": 1
+    }
+  },
+  "love": {
+    "siguientes": {
+      "making": 1,
+      "null": 1,
+      "someone": 1,
+      "to": 6
+    },
+    "anteriores": {
+      "i": 1,
+      "to": 1,
+      "could": 1,
+      "they": 6
+    }
+  },
+  "making": {
+    "siguientes": {
+      "you": 1,
+      "all": 1
+    },
+    "anteriores": {
+      "love": 1,
+      "you": 1
+    }
+  },
+  "believe": {
+    "siguientes": {
+      "what": 1,
+      "me": 4,
+      "i": 1,
+      "null": 1
+    },
+    "anteriores": {
+      "you": 3,
+      "i": 2,
+      "cant": 1,
+      "still": 1
+    }
+  },
+  "fake": {
+    "siguientes": {
+      "happy": 8
+    },
+    "anteriores": {
+      "so": 3,
+      "know": 1,
+      "is": 4
+    }
+  },
+  "happy": {
+    "siguientes": {
+      "i": 1,
+      "null": 2,
+      "and": 1,
+      "too": 4,
+      "now": 1,
+      "second": 4,
+      "ending": 2
+    },
+    "anteriores": {
+      "fake": 8,
+      "im": 1,
+      "through": 1,
+      "or": 2,
+      "sorry": 2,
+      "null": 1
+    }
+  },
+  "feel": {
+    "siguientes": {
+      "so": 1,
+      "you": 1,
+      "that": 1,
+      "we": 1,
+      "like": 1,
+      "about": 10
+    },
+    "anteriores": {
+      "i": 3,
+      "can": 1,
+      "you": 1,
+      "to": 10
+    }
+  },
+  "bet": {
+    "siguientes": {
+      "everybody": 5,
+      "you": 2
+    },
+    "anteriores": {
+      "i": 7
+    }
+  },
+  "everybody": {
+    "siguientes": {
+      "here": 5
+    },
+    "anteriores": {
+      "bet": 5
+    }
+  },
+  "here": {
+    "siguientes": {
+      "is": 5,
+      "like": 1,
+      "whos": 1,
+      "a": 1
+    },
+    "anteriores": {
+      "everybody": 5,
+      "standing": 1,
+      "person": 1,
+      "me": 1
+    }
+  },
+  "as": {
+    "siguientes": {
+      "insincere": 1,
+      "well": 1,
+      "alone": 1,
+      "you": 1,
+      "protection": 1,
+      "if": 3
+    },
+    "anteriores": {
+      "just": 1,
+      "might": 1,
+      "not": 1,
+      "alone": 1,
+      "sea": 1,
+      "null": 2,
+      "in": 1
+    }
+  },
+  "insincere": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "as": 1
+    }
+  },
+  "were": {
+    "siguientes": {
+      "all": 5,
+      "going": 1,
+      "better": 1,
+      "kids": 2,
+      "right": 1
+    },
+    "anteriores": {
+      "null": 1,
+      "things": 1,
+      "and": 1,
+      "we": 6,
+      "you": 1
+    }
+  },
+  "doing": {
+    "siguientes": {
+      "a": 1,
+      "good": 1
+    },
+    "anteriores": {
+      "been": 1,
+      "was": 1
+    }
+  },
+  "job": {
+    "siguientes": {
+      "of": 1
+    },
+    "anteriores": {
+      "good": 1
+    }
+  },
+  "makin": {
+    "siguientes": {
+      "em": 1
+    },
+    "anteriores": {
+      "of": 1
+    }
+  },
+  "em": {
+    "siguientes": {
+      "think": 1
+    },
+    "anteriores": {
+      "makin": 1
+    }
+  },
+  "quite": {
+    "siguientes": {
+      "alright": 1
+    },
+    "anteriores": {
+      "im": 1
+    }
+  },
+  "alright": {
+    "siguientes": {
+      "null": 1,
+      "with": 1,
+      "but": 1,
+      "are": 1,
+      "that": 1,
+      "for": 1
+    },
+    "anteriores": {
+      "quite": 1,
+      "look": 1,
+      "be": 1,
+      "we": 1,
+      "im": 1,
+      "its": 1
+    }
+  },
+  "better": {
+    "siguientes": {
+      "hope": 1,
+      "this": 1,
+      "to": 2
+    },
+    "anteriores": {
+      "null": 1,
+      "were": 1,
+      "it": 2
+    }
+  },
+  "blink": {
+    "siguientes": {
+      "you": 1
+    },
+    "anteriores": {
+      "dont": 1
+    }
+  },
+  "easy": {
+    "siguientes": {
+      "when": 1
+    },
+    "anteriores": {
+      "its": 1
+    }
+  },
+  "stomping": {
+    "siguientes": {
+      "on": 1
+    },
+    "anteriores": {
+      "im": 1
+    }
+  },
+  "beat": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "sees": {
+    "siguientes": {
+      "me": 1
+    },
+    "anteriores": {
+      "one": 1
+    }
+  },
+  "crawl": {
+    "siguientes": {
+      "back": 1
+    },
+    "anteriores": {
+      "i": 1
+    }
+  },
+  "underneath": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "back": 1
+    }
+  },
+  "hey": {
+    "siguientes": {
+      "if": 2,
+      "baby": 4,
+      "man": 3
+    },
+    "anteriores": {
+      "null": 6,
+      "eh": 3
+    }
+  },
+  "smile": {
+    "siguientes": {
+      "with": 4,
+      "if": 4
+    },
+    "anteriores": {
+      "i": 4,
+      "gon": 4
+    }
+  },
+  "with": {
+    "siguientes": {
+      "my": 5,
+      "these": 1,
+      "lightning": 1,
+      "the": 2,
+      "me": 5,
+      "your": 2,
+      "null": 1
+    },
+    "anteriores": {
+      "smile": 4,
+      "alright": 1,
+      "around": 1,
+      "me": 1,
+      "over": 2,
+      "hang": 5,
+      "up": 1,
+      "down": 1,
+      "fight": 1
+    }
+  },
+  "teeth": {
+    "siguientes": {
+      "i": 4
+    },
+    "anteriores": {
+      "my": 4
+    }
+  },
+  "oh": {
+    "siguientes": {
+      "please": 7,
+      "no": 6,
+      "whats": 3,
+      "oh": 1,
+      "its": 1,
+      "im": 1,
+      "let": 5
+    },
+    "anteriores": {
+      "null": 14,
+      "no": 4,
+      "use": 2,
+      "oh": 1,
+      "too": 1,
+      "and": 1,
+      "now": 1
+    }
+  },
+  "please": {
+    "siguientes": {
+      "dont": 2,
+      "i": 4,
+      "just": 1,
+      "let": 1
+    },
+    "anteriores": {
+      "oh": 7,
+      "case": 1
+    }
+  },
+  "ask": {
+    "siguientes": {
+      "me": 3
+    },
+    "anteriores": {
+      "dont": 3
+    }
+  },
+  "make": {
+    "siguientes": {
+      "me": 5,
+      "you": 4,
+      "a": 1,
+      "one": 1
+    },
+    "anteriores": {
+      "dont": 5,
+      "gonna": 4,
+      "i": 1,
+      "lets": 1
+    }
+  },
+  "play": {
+    "siguientes": {
+      "pretend": 3
+    },
+    "anteriores": {
+      "me": 3
+    }
+  },
+  "pretend": {
+    "siguientes": {
+      "null": 3
+    },
+    "anteriores": {
+      "play": 3
+    }
+  },
+  "whats": {
+    "siguientes": {
+      "the": 3
+    },
+    "anteriores": {
+      "oh": 3
+    }
+  },
+  "use": {
+    "siguientes": {
+      "oh": 2,
+      "null": 1
+    },
+    "anteriores": {
+      "the": 3
+    }
+  },
+  "tonight": {
+    "siguientes": {
+      "dress": 1
+    },
+    "anteriores": {
+      "out": 1
+    }
+  },
+  "dress": {
+    "siguientes": {
+      "up": 1
+    },
+    "anteriores": {
+      "tonight": 1
+    }
+  },
+  "fears": {
+    "siguientes": {
+      "you": 1
+    },
+    "anteriores": {
+      "my": 1
+    }
+  },
+  "these": {
+    "siguientes": {
+      "mascara": 1,
+      "lives": 4,
+      "hopeless": 1,
+      "old": 1
+    },
+    "anteriores": {
+      "with": 1,
+      "null": 4,
+      "cry": 1,
+      "illuminate": 1
+    }
+  },
+  "mascara": {
+    "siguientes": {
+      "tears": 1
+    },
+    "anteriores": {
+      "these": 1
+    }
+  },
+  "tears": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "mascara": 1
+    }
+  },
+  "draw": {
+    "siguientes": {
+      "up": 1
+    },
+    "anteriores": {
+      "gonna": 1
+    }
+  },
+  "lipstick": {
+    "siguientes": {
+      "wider": 1
+    },
+    "anteriores": {
+      "my": 1
+    }
+  },
+  "wider": {
+    "siguientes": {
+      "than": 1
+    },
+    "anteriores": {
+      "lipstick": 1
+    }
+  },
+  "than": {
+    "siguientes": {
+      "my": 1,
+      "any": 1
+    },
+    "anteriores": {
+      "wider": 1,
+      "stronger": 1
+    }
+  },
+  "mouth": {
+    "siguientes": {
+      "and": 1
+    },
+    "anteriores": {
+      "my": 1
+    }
+  },
+  "lights": {
+    "siguientes": {
+      "are": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "low": {
+    "siguientes": {
+      "theyll": 1
+    },
+    "anteriores": {
+      "are": 1
+    }
+  },
+  "never": {
+    "siguientes": {
+      "see": 1,
+      "look": 1,
+      "notice": 1,
+      "forget": 1,
+      "said": 1,
+      "tame": 8,
+      "found": 2
+    },
+    "anteriores": {
+      "theyll": 1,
+      "i": 2,
+      "ill": 2,
+      "could": 8,
+      "null": 2
+    }
+  },
+  "frown": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "me": 1
+    }
+  },
+  "ooh": {
+    "siguientes": {
+      "ooh": 1,
+      "null": 1
+    },
+    "anteriores": {
+      "now": 1,
+      "ooh": 1
+    }
+  },
+  "shoulda": {
+    "siguientes": {
+      "known": 1
+    },
+    "anteriores": {
+      "i": 1
+    }
+  },
+  "known": {
+    "siguientes": {
+      "when": 1
+    },
+    "anteriores": {
+      "shoulda": 1
+    }
+  },
+  "things": {
+    "siguientes": {
+      "were": 1
+    },
+    "anteriores": {
+      "when": 1
+    }
+  },
+  "thats": {
+    "siguientes": {
+      "when": 1,
+      "what": 5,
+      "left": 1
+    },
+    "anteriores": {
+      "good": 1,
+      "if": 4,
+      "light": 1,
+      "say": 1
+    }
+  },
+  "id": {
+    "siguientes": {
+      "get": 1,
+      "save": 1,
+      "run": 1,
+      "hate": 1
+    },
+    "anteriores": {
+      "when": 1,
+      "said": 1,
+      "you": 1,
+      "again": 1
+    }
+  },
+  "knocked": {
+    "siguientes": {
+      "down": 1
+    },
+    "anteriores": {
+      "get": 1
+    }
+  },
+  "hurt": {
+    "siguientes": {
+      "me": 1
+    },
+    "anteriores": {
+      "you": 1
+    }
+  },
+  "bad": {
+    "siguientes": {
+      "this": 1
+    },
+    "anteriores": {
+      "me": 1
+    }
+  },
+  "this": {
+    "siguientes": {
+      "time": 5,
+      "way": 1,
+      "pedestal": 1,
+      "goes": 1,
+      "letter": 1,
+      "repetition": 1
+    },
+    "anteriores": {
+      "bad": 1,
+      "better": 1,
+      "from": 1,
+      "where": 1,
+      "wrote": 1,
+      "when": 1,
+      "but": 2,
+      "null": 2
+    }
+  },
+  "time": {
+    "siguientes": {
+      "no": 1,
+      "null": 4,
+      "is": 1,
+      "you": 4
+    },
+    "anteriores": {
+      "this": 5,
+      "first": 1,
+      "much": 3,
+      "null": 1
+    }
+  },
+  "coming": {
+    "siguientes": {
+      "back": 1,
+      "down": 3,
+      "to": 1
+    },
+    "anteriores": {
+      "no": 1,
+      "aint": 1,
+      "im": 2,
+      "always": 1
+    }
+  },
+  "cried": {
+    "siguientes": {
+      "til": 1
+    },
+    "anteriores": {
+      "i": 1
+    }
+  },
+  "til": {
+    "siguientes": {
+      "i": 1
+    },
+    "anteriores": {
+      "cried": 1
+    }
+  },
+  "couldnt": {
+    "siguientes": {
+      "cry": 1
+    },
+    "anteriores": {
+      "i": 1
+    }
+  },
+  "another": {
+    "siguientes": {
+      "heart": 1,
+      "brickred": 1,
+      "blacktop": 1,
+      "misspelled": 1,
+      "pinebox": 1,
+      "star": 1,
+      "thorny": 1,
+      "song": 1,
+      "burning": 1
+    },
+    "anteriores": {
+      "cry": 1,
+      "null": 4,
+      "room": 1,
+      "down": 1,
+      "gray": 1,
+      "beneath": 1
+    }
+  },
+  "attack": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "heart": 1
+    }
+  },
+  "lay": {
+    "siguientes": {
+      "on": 1
+    },
+    "anteriores": {
+      "i": 1
+    }
+  },
+  "floor": {
+    "siguientes": {
+      "maybe": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "wake": {
+    "siguientes": {
+      "up": 2
+    },
+    "anteriores": {
+      "ill": 1,
+      "to": 1
+    }
+  },
+  "pick": {
+    "siguientes": {
+      "up": 7
+    },
+    "anteriores": {
+      "dont": 1,
+      "just": 3,
+      "up": 3
+    }
+  },
+  "voice": {
+    "siguientes": {
+      "is": 1
+    },
+    "anteriores": {
+      "your": 1
+    }
+  },
+  "gun": {
+    "siguientes": {
+      "every": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "word": {
+    "siguientes": {
+      "is": 1
+    },
+    "anteriores": {
+      "every": 1
+    }
+  },
+  "bullet": {
+    "siguientes": {
+      "hole": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "hole": {
+    "siguientes": {
+      "null": 1,
+      "in": 2
+    },
+    "anteriores": {
+      "bullet": 1,
+      "a": 2
+    }
+  },
+  "shot": {
+    "siguientes": {
+      "a": 1
+    },
+    "anteriores": {
+      "null": 1
+    }
+  },
+  "sun": {
+    "siguientes": {
+      "if": 1,
+      "appears": 1
+    },
+    "anteriores": {
+      "the": 1,
+      "dreaded": 1
+    }
+  },
+  "notice": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "never": 1
+    }
+  },
+  "forgiveness": {
+    "siguientes": {
+      "but": 1,
+      "i": 2,
+      "im": 2
+    },
+    "anteriores": {
+      "want": 5
+    }
+  },
+  "do": {
+    "siguientes": {
+      "it": 5,
+      "i": 8,
+      "our": 1
+    },
+    "anteriores": {
+      "cant": 7,
+      "where": 1,
+      "well": 1,
+      "null": 1,
+      "know": 4
+    }
+  },
+  "yet": {
+    "siguientes": {
+      "null": 4,
+      "i": 2,
+      "to": 1
+    },
+    "anteriores": {
+      "it": 5,
+      "havent": 1,
+      "is": 1
+    }
+  },
+  "theres": {
+    "siguientes": {
+      "still": 1,
+      "not": 1,
+      "more": 1
+    },
+    "anteriores": {
+      "null": 1,
+      "assured": 1,
+      "if": 1
+    }
+  },
+  "still": {
+    "siguientes": {
+      "a": 1,
+      "dont": 4,
+      "believe": 1
+    },
+    "anteriores": {
+      "theres": 1,
+      "i": 4,
+      "can": 1
+    }
+  },
+  "thread": {
+    "siguientes": {
+      "that": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "runs": {
+    "siguientes": {
+      "from": 1,
+      "too": 1
+    },
+    "anteriores": {
+      "that": 2
+    }
+  },
+  "from": {
+    "siguientes": {
+      "your": 1,
+      "me": 1,
+      "this": 1,
+      "years": 1,
+      "the": 1,
+      "any": 2
+    },
+    "anteriores": {
+      "runs": 1,
+      "run": 1,
+      "down": 1,
+      "letters": 1,
+      "protection": 1,
+      "rush": 2
+    }
+  },
+  "body": {
+    "siguientes": {
+      "to": 1
+    },
+    "anteriores": {
+      "your": 1
+    }
+  },
+  "mine": {
+    "siguientes": {
+      "and": 1,
+      "youre": 1,
+      "null": 2,
+      "you": 1,
+      "i": 1
+    },
+    "anteriores": {
+      "to": 1,
+      "of": 5
+    }
+  },
+  "an": {
+    "siguientes": {
+      "invisible": 1
+    },
+    "anteriores": {
+      "see": 1
+    }
+  },
+  "invisible": {
+    "siguientes": {
+      "line": 1
+    },
+    "anteriores": {
+      "an": 1
+    }
+  },
+  "line": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "invisible": 1
+    }
+  },
+  "follow": {
+    "siguientes": {
+      "it": 1
+    },
+    "anteriores": {
+      "i": 1
+    }
+  },
+  "we": {
+    "siguientes": {
+      "just": 4,
+      "might": 1,
+      "found": 1,
+      "left": 1,
+      "alright": 1,
+      "had": 3,
+      "cant": 6,
+      "so": 1,
+      "cry": 2,
+      "did": 2,
+      "were": 6,
+      "all": 6,
+      "null": 1,
+      "but": 1,
+      "used": 1,
+      "need": 1,
+      "can": 1,
+      "are": 1,
+      "could": 2,
+      "begin": 2,
+      "gotta": 1
+    },
+    "anteriores": {
+      "will": 1,
+      "us": 1,
+      "how": 2,
+      "where": 1,
+      "are": 1,
+      "why": 3,
+      "well": 3,
+      "cause": 5,
+      "arent": 1,
+      "till": 2,
+      "like": 2,
+      "when": 2,
+      "null": 2,
+      "feel": 1,
+      "dont": 2,
+      "left": 1,
+      "but": 1,
+      "know": 2,
+      "wish": 6,
+      "before": 2,
+      "man": 3,
+      "say": 1
+    }
+  },
+  "could": {
+    "siguientes": {
+      "take": 1,
+      "love": 1,
+      "it": 5,
+      "see": 2,
+      "forget": 2,
+      "never": 8,
+      "forgive": 2
+    },
+    "anteriores": {
+      "it": 1,
+      "i": 13,
+      "all": 1,
+      "grudges": 1,
+      "null": 3,
+      "we": 2
+    }
+  },
+  "take": {
+    "siguientes": {
+      "me": 2,
+      "so": 2,
+      "us": 2,
+      "you": 4
+    },
+    "anteriores": {
+      "could": 1,
+      "it": 4,
+      "gonna": 4,
+      "null": 1
+    }
+  },
+  "learn": {
+    "siguientes": {
+      "to": 1
+    },
+    "anteriores": {
+      "to": 1
+    }
+  },
+  "thought": {
+    "siguientes": {
+      "i": 1,
+      "they": 1,
+      "it": 1
+    },
+    "anteriores": {
+      "i": 1,
+      "one": 1,
+      "and": 1
+    }
+  },
+  "havent": {
+    "siguientes": {
+      "even": 1,
+      "yet": 1
+    },
+    "anteriores": {
+      "i": 2
+    }
+  },
+  "even": {
+    "siguientes": {
+      "begun": 1,
+      "care": 1,
+      "try": 4,
+      "survive": 4,
+      "close": 1
+    },
+    "anteriores": {
+      "havent": 1,
+      "dont": 1,
+      "you": 4,
+      "i": 4,
+      "be": 1
+    }
+  },
+  "begun": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "even": 1
+    }
+  },
+  "us": {
+    "siguientes": {
+      "we": 1,
+      "null": 3,
+      "so": 2
+    },
+    "anteriores": {
+      "to": 1,
+      "without": 1,
+      "take": 2,
+      "of": 2
+    }
+  },
+  "might": {
+    "siguientes": {
+      "as": 1,
+      "actually": 1
+    },
+    "anteriores": {
+      "we": 1,
+      "i": 1
+    }
+  },
+  "well": {
+    "siguientes": {
+      "give": 1,
+      "we": 3,
+      "laugh": 2,
+      "kick": 2,
+      "do": 1,
+      "maybe": 1
+    },
+    "anteriores": {
+      "as": 1,
+      "null": 3,
+      "on": 2,
+      "down": 2,
+      "and": 1,
+      "say": 1
+    }
+  },
+  "give": {
+    "siguientes": {
+      "up": 2,
+      "you": 7
+    },
+    "anteriores": {
+      "well": 1,
+      "cant": 6,
+      "to": 1,
+      "can": 1
+    }
+  },
+  "barely": {
+    "siguientes": {
+      "hang": 2
+    },
+    "anteriores": {
+      "can": 2
+    }
+  },
+  "hang": {
+    "siguientes": {
+      "on": 2,
+      "with": 5
+    },
+    "anteriores": {
+      "barely": 2,
+      "just": 5
+    }
+  },
+  "afraid": {
+    "siguientes": {
+      "that": 2,
+      "to": 1,
+      "null": 1
+    },
+    "anteriores": {
+      "im": 2,
+      "youre": 1,
+      "more": 1
+    }
+  },
+  "have": {
+    "siguientes": {
+      "nothing": 2,
+      "finally": 1,
+      "taken": 2,
+      "to": 2,
+      "given": 1
+    },
+    "anteriores": {
+      "ill": 2,
+      "may": 1,
+      "i": 2,
+      "dont": 2,
+      "rest": 1
+    }
+  },
+  "nothing": {
+    "siguientes": {
+      "left": 2,
+      "comes": 1
+    },
+    "anteriores": {
+      "have": 2,
+      "if": 1
+    }
+  },
+  "left": {
+    "siguientes": {
+      "null": 2,
+      "off": 1,
+      "we": 1,
+      "of": 3
+    },
+    "anteriores": {
+      "nothing": 2,
+      "we": 1,
+      "thats": 1,
+      "was": 3
+    }
+  },
+  "twisted": {
+    "siguientes": {
+      "forgiving": 2
+    },
+    "anteriores": {
+      "it": 2
+    }
+  },
+  "forgiving": {
+    "siguientes": {
+      "is": 2
+    },
+    "anteriores": {
+      "twisted": 2
+    }
+  },
+  "forgetting": {
+    "siguientes": {
+      "null": 2,
+      "no": 1
+    },
+    "anteriores": {
+      "not": 3
+    }
+  },
+  "strange": {
+    "siguientes": {
+      "how": 1
+    },
+    "anteriores": {
+      "null": 1
+    }
+  },
+  "found": {
+    "siguientes": {
+      "ourselves": 1,
+      "the": 2
+    },
+    "anteriores": {
+      "we": 1,
+      "never": 2
+    }
+  },
+  "ourselves": {
+    "siguientes": {
+      "exactly": 1,
+      "null": 1
+    },
+    "anteriores": {
+      "found": 1,
+      "like": 1
+    }
+  },
+  "exactly": {
+    "siguientes": {
+      "where": 1
+    },
+    "anteriores": {
+      "ourselves": 1
+    }
+  },
+  "where": {
+    "siguientes": {
+      "we": 1,
+      "do": 1,
+      "this": 1
+    },
+    "anteriores": {
+      "exactly": 1,
+      "null": 1,
+      "know": 1
+    }
+  },
+  "off": {
+    "siguientes": {
+      "i": 1,
+      "what": 1,
+      "null": 2,
+      "if": 1,
+      "my": 1
+    },
+    "anteriores": {
+      "left": 1,
+      "killed": 1,
+      "glasses": 2,
+      "pissed": 1,
+      "it": 1
+    }
+  },
+  "youre": {
+    "siguientes": {
+      "shaking": 1,
+      "not": 2,
+      "afraid": 1,
+      "wasting": 1,
+      "no": 5,
+      "really": 2,
+      "turning": 1
+    },
+    "anteriores": {
+      "know": 1,
+      "see": 1,
+      "and": 5,
+      "that": 1,
+      "eh": 1,
+      "mine": 1,
+      "null": 1,
+      "if": 2
+    }
+  },
+  "shaking": {
+    "siguientes": {
+      "my": 1
+    },
+    "anteriores": {
+      "youre": 1
+    }
+  },
+  "hand": {
+    "siguientes": {
+      "like": 1
+    },
+    "anteriores": {
+      "my": 1
+    }
+  },
+  "like": {
+    "siguientes": {
+      "it": 1,
+      "we": 2,
+      "im": 1,
+      "ourselves": 1,
+      "me": 1,
+      "they": 1,
+      "you": 6,
+      "null": 1
+    },
+    "anteriores": {
+      "hand": 1,
+      "null": 2,
+      "here": 1,
+      "to": 1,
+      "thing": 1,
+      "feel": 1,
+      "heart": 2,
+      "be": 4,
+      "you": 1
+    }
+  },
+  "first": {
+    "siguientes": {
+      "time": 1,
+      "cut": 2,
+      "blood": 2
+    },
+    "anteriores": {
+      "the": 5
+    }
+  },
+  "recounting": {
+    "siguientes": {
+      "all": 1
+    },
+    "anteriores": {
+      "you": 1
+    }
+  },
+  "faults": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "my": 1
+    }
+  },
+  "racking": {
+    "siguientes": {
+      "your": 1
+    },
+    "anteriores": {
+      "you": 1
+    }
+  },
+  "brain": {
+    "siguientes": {
+      "just": 1
+    },
+    "anteriores": {
+      "your": 1
+    }
+  },
+  "find": {
+    "siguientes": {
+      "them": 1
+    },
+    "anteriores": {
+      "to": 1
+    }
+  },
+  "them": {
+    "siguientes": {
+      "all": 1
+    },
+    "anteriores": {
+      "find": 1
+    }
+  },
+  "changed": {
+    "siguientes": {
+      "or": 2,
+      "and": 1,
+      "null": 3
+    },
+    "anteriores": {
+      "ive": 5,
+      "weve": 1
+    }
+  },
+  "did": {
+    "siguientes": {
+      "you": 2,
+      "when": 2,
+      "it": 4
+    },
+    "anteriores": {
+      "or": 2,
+      "we": 2,
+      "why": 4
+    }
+  },
+  "stop": {
+    "siguientes": {
+      "asking": 3,
+      "holding": 1,
+      "insisting": 1
+    },
+    "anteriores": {
+      "null": 4,
+      "to": 1
+    }
+  },
+  "asking": {
+    "siguientes": {
+      "why": 3
+    },
+    "anteriores": {
+      "stop": 3
+    }
+  },
+  "why": {
+    "siguientes": {
+      "why": 3,
+      "we": 3,
+      "did": 4,
+      "you": 4,
+      "get": 2
+    },
+    "anteriores": {
+      "asking": 3,
+      "why": 3,
+      "null": 4,
+      "wonder": 4,
+      "but": 2
+    }
+  },
+  "had": {
+    "siguientes": {
+      "to": 5,
+      "a": 1
+    },
+    "anteriores": {
+      "we": 3,
+      "i": 3
+    }
+  },
+  "waste": {
+    "siguientes": {
+      "so": 3
+    },
+    "anteriores": {
+      "to": 3
+    }
+  },
+  "much": {
+    "siguientes": {
+      "time": 3
+    },
+    "anteriores": {
+      "so": 3
+    }
+  },
+  "start": {
+    "siguientes": {
+      "again": 3
+    },
+    "anteriores": {
+      "and": 3
+    }
+  },
+  "again": {
+    "siguientes": {
+      "cause": 5,
+      "id": 1,
+      "null": 7
+    },
+    "anteriores": {
+      "start": 3,
+      "win": 1,
+      "in": 2,
+      "new": 1,
+      "out": 6
+    }
+  },
+  "holding": {
+    "siguientes": {
+      "on": 7
+    },
+    "anteriores": {
+      "keep": 6,
+      "stop": 1
+    }
+  },
+  "grudges": {
+    "siguientes": {
+      "null": 5,
+      "could": 1
+    },
+    "anteriores": {
+      "to": 6
+    }
+  },
+  "bastard": {
+    "siguientes": {
+      "i": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "neck": {
+    "siguientes": {
+      "to": 1
+    },
+    "anteriores": {
+      "my": 1
+    }
+  },
+  "arent": {
+    "siguientes": {
+      "we": 1
+    },
+    "anteriores": {
+      "but": 1
+    }
+  },
+  "brave": {
+    "siguientes": {
+      "to": 1
+    },
+    "anteriores": {
+      "so": 1
+    }
+  },
+  "fight": {
+    "siguientes": {
+      "and": 1,
+      "with": 1
+    },
+    "anteriores": {
+      "a": 1,
+      "you": 1
+    }
+  },
+  "years": {
+    "siguientes": {
+      "go": 1,
+      "ago": 2
+    },
+    "anteriores": {
+      "the": 1,
+      "from": 1,
+      "twelve": 1
+    }
+  },
+  "without": {
+    "siguientes": {
+      "us": 1
+    },
+    "anteriores": {
+      "by": 1
+    }
+  },
+  "side": {
+    "siguientes": {
+      "and": 1,
+      "i": 1
+    },
+    "anteriores": {
+      "my": 1,
+      "bright": 1
+    }
+  },
+  "awhile": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "been": 1
+    }
+  },
+  "weve": {
+    "siguientes": {
+      "changed": 1
+    },
+    "anteriores": {
+      "that": 1
+    }
+  },
+  "way": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "this": 1
+    }
+  },
+  "wanna": {
+    "siguientes": {
+      "call": 2,
+      "stay": 1,
+      "go": 1
+    },
+    "anteriores": {
+      "you": 3,
+      "i": 1
+    }
+  },
+  "come": {
+    "siguientes": {
+      "over": 2,
+      "on": 2,
+      "out": 1,
+      "alive": 1,
+      "through": 2,
+      "null": 1
+    },
+    "anteriores": {
+      "or": 2,
+      "over": 2,
+      "to": 2,
+      "ill": 1,
+      "you": 2
+    }
+  },
+  "laugh": {
+    "siguientes": {
+      "till": 2,
+      "when": 4,
+      "ill": 2
+    },
+    "anteriores": {
+      "well": 2,
+      "and": 4,
+      "me": 2
+    }
+  },
+  "till": {
+    "siguientes": {
+      "we": 2
+    },
+    "anteriores": {
+      "laugh": 2
+    }
+  },
+  "kids": {
+    "siguientes": {
+      "cause": 2
+    },
+    "anteriores": {
+      "were": 2
+    }
+  },
+  "long": {
+    "siguientes": {
+      "null": 3,
+      "to": 1,
+      "and": 1,
+      "god": 1
+    },
+    "anteriores": {
+      "so": 4,
+      "a": 1,
+      "too": 1
+    }
+  },
+  "tell": {
+    "siguientes": {
+      "me": 14,
+      "my": 2
+    },
+    "anteriores": {
+      "null": 7,
+      "can": 1,
+      "winning": 1,
+      "now": 4,
+      "violent": 1,
+      "to": 2
+    }
+  },
+  "aint": {
+    "siguientes": {
+      "gonna": 1,
+      "coming": 1,
+      "your": 1,
+      "gon": 4,
+      "ever": 1
+    },
+    "anteriores": {
+      "i": 6,
+      "it": 1,
+      "you": 1
+    }
+  },
+  "hard": {
+    "siguientes": {
+      "times": 20
+    },
+    "anteriores": {
+      "null": 10,
+      "survive": 2,
+      "times": 7,
+      "try": 1
+    }
+  },
+  "times": {
+    "siguientes": {
+      "gonna": 6,
+      "hard": 7,
+      "null": 5,
+      "and": 2
+    },
+    "anteriores": {
+      "hard": 20
+    }
+  },
+  "wonder": {
+    "siguientes": {
+      "why": 4,
+      "is": 2
+    },
+    "anteriores": {
+      "you": 4,
+      "i": 2
+    }
+  },
+  "lives": {
+    "siguientes": {
+      "null": 2,
+      "and": 2
+    },
+    "anteriores": {
+      "these": 4
+    }
+  },
+  "survive": {
+    "siguientes": {
+      "hard": 2,
+      "null": 4,
+      "ill": 6
+    },
+    "anteriores": {
+      "even": 4,
+      "i": 8
+    }
+  },
+  "rock": {
+    "siguientes": {
+      "bottom": 3
+    },
+    "anteriores": {
+      "to": 2,
+      "hit": 1
+    }
+  },
+  "bottom": {
+    "siguientes": {
+      "null": 3
+    },
+    "anteriores": {
+      "rock": 3
+    }
+  },
+  "walking": {
+    "siguientes": {
+      "around": 1
+    },
+    "anteriores": {
+      "null": 1
+    }
+  },
+  "raincloud": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "little": 1
+    }
+  },
+  "hanging": {
+    "siguientes": {
+      "over": 1
+    },
+    "anteriores": {
+      "null": 1
+    }
+  },
+  "head": {
+    "siguientes": {
+      "and": 1,
+      "null": 1,
+      "if": 1
+    },
+    "anteriores": {
+      "my": 3
+    }
+  },
+  "gimme": {
+    "siguientes": {
+      "some": 1
+    },
+    "anteriores": {
+      "go": 1
+    }
+  },
+  "some": {
+    "siguientes": {
+      "sort": 1
+    },
+    "anteriores": {
+      "gimme": 1
+    }
+  },
+  "sort": {
+    "siguientes": {
+      "of": 1
+    },
+    "anteriores": {
+      "some": 1
+    }
+  },
+  "sign": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "of": 1
+    }
+  },
+  "hit": {
+    "siguientes": {
+      "me": 1,
+      "rock": 1,
+      "the": 6
+    },
+    "anteriores": {
+      "you": 1,
+      "gotta": 1,
+      "i": 6
+    }
+  },
+  "lightning": {
+    "siguientes": {
+      "maybe": 1
+    },
+    "anteriores": {
+      "with": 1
+    }
+  },
+  "friends": {
+    "siguientes": {
+      "im": 2
+    },
+    "anteriores": {
+      "my": 2
+    }
+  },
+  "kick": {
+    "siguientes": {
+      "it": 2
+    },
+    "anteriores": {
+      "well": 2
+    }
+  },
+  "standing": {
+    "siguientes": {
+      "here": 1
+    },
+    "anteriores": {
+      "null": 1
+    }
+  },
+  "supposed": {
+    "siguientes": {
+      "to": 1
+    },
+    "anteriores": {
+      "im": 1
+    }
+  },
+  "something": {
+    "siguientes": {
+      "dont": 1,
+      "more": 1,
+      "new": 3
+    },
+    "anteriores": {
+      "say": 1,
+      "in": 1,
+      "to": 2,
+      "starting": 1
+    }
+  },
+  "breath": {
+    "siguientes": {
+      "i": 1
+    },
+    "anteriores": {
+      "your": 1
+    }
+  },
+  "save": {
+    "siguientes": {
+      "you": 1
+    },
+    "anteriores": {
+      "id": 1
+    }
+  },
+  "honey": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "you": 1
+    }
+  },
+  "money": {
+    "siguientes": {
+      "if": 1
+    },
+    "anteriores": {
+      "your": 1
+    }
+  },
+  "run": {
+    "siguientes": {
+      "from": 1
+    },
+    "anteriores": {
+      "id": 1
+    }
+  },
+  "rip": {
+    "siguientes": {
+      "me": 1
+    },
+    "anteriores": {
+      "or": 1
+    }
+  },
+  "open": {
+    "siguientes": {
+      "null": 3,
+      "and": 6
+    },
+    "anteriores": {
+      "me": 1,
+      "are": 8
+    }
+  },
+  "youll": {
+    "siguientes": {
+      "see": 1,
+      "say": 1
+    },
+    "anteriores": {
+      "null": 1,
+      "and": 1
+    }
+  },
+  "whos": {
+    "siguientes": {
+      "hopeless": 1,
+      "worthy": 1
+    },
+    "anteriores": {
+      "one": 1,
+      "here": 1
+    }
+  },
+  "hopeless": {
+    "siguientes": {
+      "be": 1,
+      "places": 1
+    },
+    "anteriores": {
+      "whos": 1,
+      "these": 1
+    }
+  },
+  "sure": {
+    "siguientes": {
+      "to": 1
+    },
+    "anteriores": {
+      "be": 1
+    }
+  },
+  "put": {
+    "siguientes": {
+      "your": 1
+    },
+    "anteriores": {
+      "to": 1
+    }
+  },
+  "faith": {
+    "siguientes": {
+      "in": 1,
+      "on": 1
+    },
+    "anteriores": {
+      "your": 2
+    }
+  },
+  "more": {
+    "siguientes": {
+      "null": 1,
+      "misguided": 1,
+      "transparent": 1,
+      "afraid": 1,
+      "i": 1
+    },
+    "anteriores": {
+      "something": 1,
+      "needs": 1,
+      "null": 1,
+      "be": 1,
+      "theres": 1
+    }
+  },
+  "girl": {
+    "siguientes": {
+      "and": 1,
+      "dont": 2
+    },
+    "anteriores": {
+      "a": 1,
+      "empty": 2
+    }
+  },
+  "alone": {
+    "siguientes": {
+      "as": 1
+    },
+    "anteriores": {
+      "as": 1
+    }
+  },
+  "problems": {
+    "siguientes": {
+      "dont": 1
+    },
+    "anteriores": {
+      "got": 1
+    }
+  },
+  "heroes": {
+    "siguientes": {
+      "dont": 1
+    },
+    "anteriores": {
+      "need": 1
+    }
+  },
+  "assured": {
+    "siguientes": {
+      "theres": 1
+    },
+    "anteriores": {
+      "rest": 1
+    }
+  },
+  "single": {
+    "siguientes": {
+      "person": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "person": {
+    "siguientes": {
+      "here": 1
+    },
+    "anteriores": {
+      "single": 1
+    }
+  },
+  "worthy": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "whos": 1
+    }
+  },
+  "la": {
+    "siguientes": {
+      "la": 29,
+      "dont": 2,
+      "just": 1,
+      "null": 1
+    },
+    "anteriores": {
+      "null": 4,
+      "la": 29
+    }
+  },
+  "eh": {
+    "siguientes": {
+      "eh": 54,
+      "hey": 3,
+      "null": 13,
+      "youre": 1,
+      "think": 1
+    },
+    "anteriores": {
+      "null": 3,
+      "eh": 54,
+      "superhuman": 4,
+      "down": 5,
+      "hoping": 4,
+      "hero": 1,
+      "goes": 1
+    }
+  },
+  "baby": {
+    "siguientes": {
+      "im": 4
+    },
+    "anteriores": {
+      "hey": 4
+    }
+  },
+  "superhuman": {
+    "siguientes": {
+      "eh": 4
+    },
+    "anteriores": {
+      "your": 4
+    }
+  },
+  "hate": {
+    "siguientes": {
+      "to": 11,
+      "i": 1,
+      "me": 1,
+      "you": 1
+    },
+    "anteriores": {
+      "i": 11,
+      "id": 1,
+      "may": 1,
+      "cant": 1
+    }
+  },
+  "such": {
+    "siguientes": {
+      "a": 1
+    },
+    "anteriores": {
+      "its": 1
+    }
+  },
+  "awful": {
+    "siguientes": {
+      "lonely": 1
+    },
+    "anteriores": {
+      "and": 1
+    }
+  },
+  "lonely": {
+    "siguientes": {
+      "fall": 1
+    },
+    "anteriores": {
+      "awful": 1
+    }
+  },
+  "fall": {
+    "siguientes": {
+      "down": 1,
+      "on": 1
+    },
+    "anteriores": {
+      "lonely": 1,
+      "i": 1
+    }
+  },
+  "pedestal": {
+    "siguientes": {
+      "that": 1,
+      "of": 1
+    },
+    "anteriores": {
+      "this": 1,
+      "your": 1
+    }
+  },
+  "putting": {
+    "siguientes": {
+      "me": 1
+    },
+    "anteriores": {
+      "keep": 1
+    }
+  },
+  "face": {
+    "siguientes": {
+      "what": 1
+    },
+    "anteriores": {
+      "my": 1
+    }
+  },
+  "mistake": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "okay": {
+    "siguientes": {
+      "a": 1
+    },
+    "anteriores": {
+      "its": 1
+    }
+  },
+  "grace": {
+    "siguientes": {
+      "would": 1
+    },
+    "anteriores": {
+      "little": 1
+    }
+  },
+  "would": {
+    "siguientes": {
+      "be": 1,
+      "you": 2
+    },
+    "anteriores": {
+      "grace": 1,
+      "you": 2
+    }
+  },
+  "appreciated": {
+    "siguientes": {
+      "remember": 1
+    },
+    "anteriores": {
+      "be": 1
+    }
+  },
+  "remember": {
+    "siguientes": {
+      "how": 1
+    },
+    "anteriores": {
+      "appreciated": 1
+    }
+  },
+  "light": {
+    "siguientes": {
+      "thats": 1,
+      "illuminate": 1
+    },
+    "anteriores": {
+      "little": 1,
+      "the": 1
+    }
+  },
+  "sacred": {
+    "siguientes": {
+      "i": 1
+    },
+    "anteriores": {
+      "it": 1
+    }
+  },
+  "dark": {
+    "siguientes": {
+      "escape": 1,
+      "now": 1
+    },
+    "anteriores": {
+      "the": 1,
+      "too": 1
+    }
+  },
+  "escape": {
+    "siguientes": {
+      "you": 1
+    },
+    "anteriores": {
+      "dark": 1
+    }
+  },
+  "illuminate": {
+    "siguientes": {
+      "these": 1
+    },
+    "anteriores": {
+      "light": 1
+    }
+  },
+  "hero": {
+    "siguientes": {
+      "eh": 1
+    },
+    "anteriores": {
+      "your": 1
+    }
+  },
+  "wasting": {
+    "siguientes": {
+      "all": 1
+    },
+    "anteriores": {
+      "youre": 1
+    }
+  },
+  "goes": {
+    "siguientes": {
+      "eh": 1
+    },
+    "anteriores": {
+      "this": 1
+    }
+  },
+  "safe": {
+    "siguientes": {
+      "to": 1
+    },
+    "anteriores": {
+      "its": 1
+    }
+  },
+  "savior": {
+    "siguientes": {
+      "doesnt": 1,
+      "of": 3
+    },
+    "anteriores": {
+      "your": 1,
+      "no": 3
+    }
+  },
+  "doesnt": {
+    "siguientes": {
+      "look": 1
+    },
+    "anteriores": {
+      "savior": 1
+    }
+  },
+  "letters": {
+    "siguientes": {
+      "from": 1
+    },
+    "anteriores": {
+      "old": 1
+    }
+  },
+  "ago": {
+    "siguientes": {
+      "i": 2
+    },
+    "anteriores": {
+      "years": 2
+    }
+  },
+  "felt": {
+    "siguientes": {
+      "it": 1,
+      "most": 1
+    },
+    "anteriores": {
+      "i": 2
+    }
+  },
+  "leading": {
+    "siguientes": {
+      "to": 1
+    },
+    "anteriores": {
+      "was": 1
+    }
+  },
+  "wrote": {
+    "siguientes": {
+      "this": 1
+    },
+    "anteriores": {
+      "i": 1
+    }
+  },
+  "letter": {
+    "siguientes": {
+      "i": 1
+    },
+    "anteriores": {
+      "this": 1
+    }
+  },
+  "may": {
+    "siguientes": {
+      "have": 1,
+      "not": 1,
+      "hate": 1
+    },
+    "anteriores": {
+      "i": 1,
+      "see": 1,
+      "you": 1
+    }
+  },
+  "finally": {
+    "siguientes": {
+      "been": 1
+    },
+    "anteriores": {
+      "have": 1
+    }
+  },
+  "able": {
+    "siguientes": {
+      "to": 1
+    },
+    "anteriores": {
+      "been": 1
+    }
+  },
+  "address": {
+    "siguientes": {
+      "how": 1
+    },
+    "anteriores": {
+      "to": 1
+    }
+  },
+  "feels": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "it": 1
+    }
+  },
+  "brickred": {
+    "siguientes": {
+      "room": 1
+    },
+    "anteriores": {
+      "another": 1
+    }
+  },
+  "room": {
+    "siguientes": {
+      "another": 1
+    },
+    "anteriores": {
+      "brickred": 1
+    }
+  },
+  "blacktop": {
+    "siguientes": {
+      "town": 1
+    },
+    "anteriores": {
+      "another": 1
+    }
+  },
+  "town": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "blacktop": 1
+    }
+  },
+  "misspelled": {
+    "siguientes": {
+      "band": 1
+    },
+    "anteriores": {
+      "another": 1
+    }
+  },
+  "band": {
+    "siguientes": {
+      "burning": 1
+    },
+    "anteriores": {
+      "misspelled": 1
+    }
+  },
+  "burning": {
+    "siguientes": {
+      "their": 1,
+      "sky": 1
+    },
+    "anteriores": {
+      "band": 1,
+      "another": 1
+    }
+  },
+  "their": {
+    "siguientes": {
+      "own": 1
+    },
+    "anteriores": {
+      "burning": 1
+    }
+  },
+  "houses": {
+    "siguientes": {
+      "down": 1
+    },
+    "anteriores": {
+      "own": 1
+    }
+  },
+  "pinebox": {
+    "siguientes": {
+      "tune": 1
+    },
+    "anteriores": {
+      "another": 1
+    }
+  },
+  "tune": {
+    "siguientes": {
+      "to": 1
+    },
+    "anteriores": {
+      "pinebox": 1
+    }
+  },
+  "fill": {
+    "siguientes": {
+      "the": 1
+    },
+    "anteriores": {
+      "to": 1
+    }
+  },
+  "cemetery": {
+    "siguientes": {
+      "dead": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "dead": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "cemetery": 1
+    }
+  },
+  "star": {
+    "siguientes": {
+      "a": 1
+    },
+    "anteriores": {
+      "another": 1
+    }
+  },
+  "touch": {
+    "siguientes": {
+      "of": 1,
+      "but": 1,
+      "null": 1
+    },
+    "anteriores": {
+      "a": 1,
+      "lovers": 2
+    }
+  },
+  "orange": {
+    "siguientes": {
+      "over": 1
+    },
+    "anteriores": {
+      "of": 1
+    }
+  },
+  "purgatory": {
+    "siguientes": {
+      "gray": 1
+    },
+    "anteriores": {
+      "over": 1
+    }
+  },
+  "gray": {
+    "siguientes": {
+      "another": 1
+    },
+    "anteriores": {
+      "purgatory": 1
+    }
+  },
+  "thorny": {
+    "siguientes": {
+      "field": 1
+    },
+    "anteriores": {
+      "another": 1
+    }
+  },
+  "field": {
+    "siguientes": {
+      "to": 1
+    },
+    "anteriores": {
+      "thorny": 1
+    }
+  },
+  "scatter": {
+    "siguientes": {
+      "fruitless": 1
+    },
+    "anteriores": {
+      "to": 1
+    }
+  },
+  "fruitless": {
+    "siguientes": {
+      "seed": 1
+    },
+    "anteriores": {
+      "scatter": 1
+    }
+  },
+  "seed": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "fruitless": 1
+    }
+  },
+  "song": {
+    "siguientes": {
+      "that": 1
+    },
+    "anteriores": {
+      "another": 1
+    }
+  },
+  "god": {
+    "siguientes": {
+      "knows": 1
+    },
+    "anteriores": {
+      "long": 1
+    }
+  },
+  "knows": {
+    "siguientes": {
+      "no": 1
+    },
+    "anteriores": {
+      "god": 1
+    }
+  },
+  "needs": {
+    "siguientes": {
+      "more": 1
+    },
+    "anteriores": {
+      "one": 1
+    }
+  },
+  "misguided": {
+    "siguientes": {
+      "ghosts": 1
+    },
+    "anteriores": {
+      "more": 1
+    }
+  },
+  "ghosts": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "misguided": 1
+    }
+  },
+  "transparent": {
+    "siguientes": {
+      "hands": 1
+    },
+    "anteriores": {
+      "more": 1
+    }
+  },
+  "hands": {
+    "siguientes": {
+      "to": 1
+    },
+    "anteriores": {
+      "transparent": 1
+    }
+  },
+  "drop": {
+    "siguientes": {
+      "a": 1
+    },
+    "anteriores": {
+      "to": 1
+    }
+  },
+  "nickel": {
+    "siguientes": {
+      "in": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "our": {
+    "siguientes": {
+      "basket": 1,
+      "riot": 1,
+      "painted": 1,
+      "little": 2
+    },
+    "anteriores": {
+      "in": 1,
+      "do": 1,
+      "behind": 1,
+      "of": 2
+    }
+  },
+  "basket": {
+    "siguientes": {
+      "and": 1
+    },
+    "anteriores": {
+      "our": 1
+    }
+  },
+  "riot": {
+    "siguientes": {
+      "dance": 1
+    },
+    "anteriores": {
+      "our": 1
+    }
+  },
+  "dance": {
+    "siguientes": {
+      "beneath": 1
+    },
+    "anteriores": {
+      "riot": 1
+    }
+  },
+  "beneath": {
+    "siguientes": {
+      "another": 1
+    },
+    "anteriores": {
+      "dance": 1
+    }
+  },
+  "sky": {
+    "siguientes": {
+      "behind": 1
+    },
+    "anteriores": {
+      "burning": 1
+    }
+  },
+  "painted": {
+    "siguientes": {
+      "lips": 1
+    },
+    "anteriores": {
+      "our": 1
+    }
+  },
+  "lips": {
+    "siguientes": {
+      "in": 1
+    },
+    "anteriores": {
+      "painted": 1
+    }
+  },
+  "scores": {
+    "siguientes": {
+      "catatonic": 1
+    },
+    "anteriores": {
+      "in": 1
+    }
+  },
+  "catatonic": {
+    "siguientes": {
+      "smilecovered": 1
+    },
+    "anteriores": {
+      "scores": 1
+    }
+  },
+  "smilecovered": {
+    "siguientes": {
+      "anklebitten": 1
+    },
+    "anteriores": {
+      "catatonic": 1
+    }
+  },
+  "anklebitten": {
+    "siguientes": {
+      "ships": 1
+    },
+    "anteriores": {
+      "smilecovered": 1
+    }
+  },
+  "ships": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "anklebitten": 1
+    }
+  },
+  "throw": {
+    "siguientes": {
+      "your": 1,
+      "me": 12
+    },
+    "anteriores": {
+      "so": 1,
+      "me": 1,
+      "fire": 6,
+      "null": 5
+    }
+  },
+  "stone": {
+    "siguientes": {
+      "in": 1
+    },
+    "anteriores": {
+      "of": 1
+    }
+  },
+  "forgetful": {
+    "siguientes": {
+      "sea": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "sea": {
+    "siguientes": {
+      "as": 1
+    },
+    "anteriores": {
+      "forgetful": 1
+    }
+  },
+  "protection": {
+    "siguientes": {
+      "from": 1
+    },
+    "anteriores": {
+      "as": 1
+    }
+  },
+  "paperthin": {
+    "siguientes": {
+      "perfection": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "perfection": {
+    "siguientes": {
+      "you": 1
+    },
+    "anteriores": {
+      "paperthin": 1
+    }
+  },
+  "project": {
+    "siguientes": {
+      "on": 1
+    },
+    "anteriores": {
+      "you": 1
+    }
+  },
+  "repetition": {
+    "siguientes": {
+      "ends": 1
+    },
+    "anteriores": {
+      "this": 1
+    }
+  },
+  "ends": {
+    "siguientes": {
+      "behind": 1
+    },
+    "anteriores": {
+      "repetition": 1
+    }
+  },
+  "shades": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "window": 1
+    }
+  },
+  "semiconscious": {
+    "siguientes": {
+      "sorrow": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "sorrow": {
+    "siguientes": {
+      "sleeping": 1
+    },
+    "anteriores": {
+      "semiconscious": 1
+    }
+  },
+  "sleeping": {
+    "siguientes": {
+      "in": 1
+    },
+    "anteriores": {
+      "sorrow": 1
+    }
+  },
+  "bed": {
+    "siguientes": {
+      "ive": 1,
+      "null": 1
+    },
+    "anteriores": {
+      "the": 1,
+      "unrestful": 1
+    }
+  },
+  "made": {
+    "siguientes": {
+      "that": 1
+    },
+    "anteriores": {
+      "ive": 1
+    }
+  },
+  "most": {
+    "siguientes": {
+      "unrestful": 1,
+      "original": 1,
+      "free": 1,
+      "violent": 1
+    },
+    "anteriores": {
+      "that": 2,
+      "felt": 1,
+      "the": 1
+    }
+  },
+  "unrestful": {
+    "siguientes": {
+      "bed": 1
+    },
+    "anteriores": {
+      "most": 1
+    }
+  },
+  "original": {
+    "siguientes": {
+      "of": 1
+    },
+    "anteriores": {
+      "most": 1
+    }
+  },
+  "sins": {
+    "siguientes": {
+      "and": 1
+    },
+    "anteriores": {
+      "of": 1
+    }
+  },
+  "ambition": {
+    "siguientes": {
+      "win": 1
+    },
+    "anteriores": {
+      "let": 1
+    }
+  },
+  "win": {
+    "siguientes": {
+      "again": 1
+    },
+    "anteriores": {
+      "ambition": 1
+    }
+  },
+  "waters": {
+    "siguientes": {
+      "rise": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "rise": {
+    "siguientes": {
+      "and": 1
+    },
+    "anteriores": {
+      "waters": 1
+    }
+  },
+  "drown": {
+    "siguientes": {
+      "my": 1
+    },
+    "anteriores": {
+      "and": 1
+    }
+  },
+  "dull": {
+    "siguientes": {
+      "reflection": 1
+    },
+    "anteriores": {
+      "my": 1
+    }
+  },
+  "reflection": {
+    "siguientes": {
+      "in": 1,
+      "of": 1
+    },
+    "anteriores": {
+      "dull": 1,
+      "the": 1
+    }
+  },
+  "naive": {
+    "siguientes": {
+      "expectation": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "expectation": {
+    "siguientes": {
+      "in": 1
+    },
+    "anteriores": {
+      "naive": 1
+    }
+  },
+  "cast": {
+    "siguientes": {
+      "bitpart": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "bitpart": {
+    "siguientes": {
+      "back": 1
+    },
+    "anteriores": {
+      "cast": 1
+    }
+  },
+  "butchers": {
+    "siguientes": {
+      "heart": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "knew": {
+    "siguientes": {
+      "me": 1
+    },
+    "anteriores": {
+      "they": 1
+    }
+  },
+  "before": {
+    "siguientes": {
+      "the": 2,
+      "we": 2
+    },
+    "anteriores": {
+      "so": 1,
+      "null": 1,
+      "shatter": 2
+    }
+  },
+  "regiment": {
+    "siguientes": {
+      "resumes": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "resumes": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "regiment": 1
+    }
+  },
+  "dreaded": {
+    "siguientes": {
+      "sun": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "appears": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "sun": 1
+    }
+  },
+  "drivers": {
+    "siguientes": {
+      "waiting": 1
+    },
+    "anteriores": {
+      "my": 1
+    }
+  },
+  "waiting": {
+    "siguientes": {
+      "so": 1
+    },
+    "anteriores": {
+      "drivers": 1
+    }
+  },
+  "lets": {
+    "siguientes": {
+      "make": 1
+    },
+    "anteriores": {
+      "so": 1
+    }
+  },
+  "crystal": {
+    "siguientes": {
+      "clear": 1
+    },
+    "anteriores": {
+      "point": 1
+    }
+  },
+  "clear": {
+    "siguientes": {
+      "you": 1
+    },
+    "anteriores": {
+      "crystal": 1
+    }
+  },
+  "floodlit": {
+    "siguientes": {
+      "form": 2
+    },
+    "anteriores": {
+      "a": 2
+    }
+  },
+  "form": {
+    "siguientes": {
+      "null": 2
+    },
+    "anteriores": {
+      "floodlit": 2
+    }
+  },
+  "shirt": {
+    "siguientes": {
+      "design": 2
+    },
+    "anteriores": {
+      "a": 2
+    }
+  },
+  "design": {
+    "siguientes": {
+      "null": 2
+    },
+    "anteriores": {
+      "shirt": 2
+    }
+  },
+  "yours": {
+    "siguientes": {
+      "and": 3
+    },
+    "anteriores": {
+      "of": 3
+    }
+  },
+  "friend": {
+    "siguientes": {
+      "of": 5,
+      "stood": 1
+    },
+    "anteriores": {
+      "no": 5,
+      "my": 1
+    }
+  },
+  "peoples": {
+    "siguientes": {
+      "eyes": 1
+    },
+    "anteriores": {
+      "of": 1
+    }
+  },
+  "realizing": {
+    "siguientes": {
+      "what": 1
+    },
+    "anteriores": {
+      "eyes": 1
+    }
+  },
+  "image": {
+    "siguientes": {
+      "i": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "actually": {
+    "siguientes": {
+      "be": 1
+    },
+    "anteriores": {
+      "might": 1
+    }
+  },
+  "story": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "saw": {
+    "siguientes": {
+      "a": 1
+    },
+    "anteriores": {
+      "i": 1
+    }
+  },
+  "bear": {
+    "siguientes": {
+      "floating": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "floating": {
+    "siguientes": {
+      "in": 1
+    },
+    "anteriores": {
+      "bear": 1
+    }
+  },
+  "river": {
+    "siguientes": {
+      "and": 1,
+      "was": 1
+    },
+    "anteriores": {
+      "the": 2
+    }
+  },
+  "fur": {
+    "siguientes": {
+      "coat": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "coat": {
+    "siguientes": {
+      "twelve": 1,
+      "and": 2,
+      "but": 1,
+      "wont": 1
+    },
+    "anteriores": {
+      "fur": 1,
+      "the": 4
+    }
+  },
+  "twelve": {
+    "siguientes": {
+      "years": 1
+    },
+    "anteriores": {
+      "coat": 1
+    }
+  },
+  "stood": {
+    "siguientes": {
+      "on": 1,
+      "at": 1
+    },
+    "anteriores": {
+      "i": 1,
+      "friend": 1
+    }
+  },
+  "shore": {
+    "siguientes": {
+      "null": 1,
+      "and": 1
+    },
+    "anteriores": {
+      "the": 2
+    }
+  },
+  "jumped": {
+    "siguientes": {
+      "in": 1
+    },
+    "anteriores": {
+      "null": 1
+    }
+  },
+  "grab": {
+    "siguientes": {
+      "the": 1
+    },
+    "anteriores": {
+      "and": 1
+    }
+  },
+  "rushing": {
+    "siguientes": {
+      "toward": 1
+    },
+    "anteriores": {
+      "was": 1
+    }
+  },
+  "toward": {
+    "siguientes": {
+      "a": 1
+    },
+    "anteriores": {
+      "rushing": 1
+    }
+  },
+  "waterfall": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "at": {
+    "siguientes": {
+      "the": 2,
+      "least": 1
+    },
+    "anteriores": {
+      "stood": 1,
+      "right": 2
+    }
+  },
+  "shouted": {
+    "siguientes": {
+      "to": 1
+    },
+    "anteriores": {
+      "and": 1
+    }
+  },
+  "swim": {
+    "siguientes": {
+      "back": 1
+    },
+    "anteriores": {
+      "and": 1
+    }
+  },
+  "land": {
+    "siguientes": {
+      "i": 1
+    },
+    "anteriores": {
+      "to": 1
+    }
+  },
+  "any": {
+    "siguientes": {
+      "case": 1,
+      "lovers": 2,
+      "addiction": 1
+    },
+    "anteriores": {
+      "in": 1,
+      "from": 2,
+      "than": 1
+    }
+  },
+  "case": {
+    "siguientes": {
+      "please": 1
+    },
+    "anteriores": {
+      "any": 1
+    }
+  },
+  "comes": {
+    "siguientes": {
+      "of": 1
+    },
+    "anteriores": {
+      "nothing": 1
+    }
+  },
+  "then": {
+    "siguientes": {
+      "just": 1
+    },
+    "anteriores": {
+      "it": 1
+    }
+  },
+  "grateful": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "are": 1
+    }
+  },
+  "cut": {
+    "siguientes": {
+      "wasnt": 2
+    },
+    "anteriores": {
+      "first": 2
+    }
+  },
+  "deep": {
+    "siguientes": {
+      "enough": 2,
+      "end": 2
+    },
+    "anteriores": {
+      "wasnt": 2,
+      "the": 2
+    }
+  },
+  "enough": {
+    "siguientes": {
+      "i": 3,
+      "null": 1,
+      "to": 1
+    },
+    "anteriores": {
+      "deep": 2,
+      "thrill": 2,
+      "it": 1
+    }
+  },
+  "dove": {
+    "siguientes": {
+      "in": 2
+    },
+    "anteriores": {
+      "i": 2
+    }
+  },
+  "into": {
+    "siguientes": {
+      "giving": 2,
+      "shallow": 2,
+      "right": 2,
+      "null": 3,
+      "you": 10,
+      "dive": 1,
+      "a": 2,
+      "the": 6
+    },
+    "anteriores": {
+      "not": 2,
+      "headfirst": 2,
+      "back": 16,
+      "it": 1,
+      "thrown": 1,
+      "me": 6
+    }
+  },
+  "giving": {
+    "siguientes": {
+      "up": 10
+    },
+    "anteriores": {
+      "into": 2,
+      "im": 8
+    }
+  },
+  "couldve": {
+    "siguientes": {
+      "gotten": 2
+    },
+    "anteriores": {
+      "null": 1,
+      "up": 1
+    }
+  },
+  "gotten": {
+    "siguientes": {
+      "the": 2
+    },
+    "anteriores": {
+      "couldve": 2
+    }
+  },
+  "same": {
+    "siguientes": {
+      "rush": 2
+    },
+    "anteriores": {
+      "the": 2
+    }
+  },
+  "rush": {
+    "siguientes": {
+      "from": 2
+    },
+    "anteriores": {
+      "same": 2
+    }
+  },
+  "lovers": {
+    "siguientes": {
+      "touch": 2
+    },
+    "anteriores": {
+      "any": 2
+    }
+  },
+  "new": {
+    "siguientes": {
+      "null": 1,
+      "cause": 1,
+      "again": 1
+    },
+    "anteriores": {
+      "something": 3
+    }
+  },
+  "breaks": {
+    "siguientes": {
+      "my": 2
+    },
+    "anteriores": {
+      "one": 2
+    }
+  },
+  "kiss": {
+    "siguientes": {
+      "me": 2
+    },
+    "anteriores": {
+      "you": 2
+    }
+  },
+  "wish": {
+    "siguientes": {
+      "we": 6
+    },
+    "anteriores": {
+      "i": 6
+    }
+  },
+  "happens": {
+    "siguientes": {
+      "next": 2,
+      "in": 2
+    },
+    "anteriores": {
+      "what": 4
+    }
+  },
+  "next": {
+    "siguientes": {
+      "for": 1,
+      "null": 1
+    },
+    "anteriores": {
+      "happens": 2
+    }
+  },
+  "moment": {
+    "siguientes": {
+      "i": 2
+    },
+    "anteriores": {
+      "a": 2
+    }
+  },
+  "doubt": {
+    "siguientes": {
+      "you": 2
+    },
+    "anteriores": {
+      "i": 2
+    }
+  },
+  "through": {
+    "siguientes": {
+      "happy": 1,
+      "null": 1,
+      "a": 1
+    },
+    "anteriores": {
+      "come": 2,
+      "been": 1
+    }
+  },
+  "second": {
+    "siguientes": {
+      "chance": 4
+    },
+    "anteriores": {
+      "happy": 4
+    }
+  },
+  "chance": {
+    "siguientes": {
+      "or": 2,
+      "think": 2
+    },
+    "anteriores": {
+      "second": 4
+    }
+  },
+  "ending": {
+    "siguientes": {
+      "null": 1,
+      "but": 1
+    },
+    "anteriores": {
+      "happy": 2
+    }
+  },
+  "leave": {
+    "siguientes": {
+      "me": 5
+    },
+    "anteriores": {
+      "dont": 2,
+      "wont": 2,
+      "boy": 1
+    }
+  },
+  "sinking": {
+    "siguientes": {
+      "null": 3,
+      "im": 1
+    },
+    "anteriores": {
+      "me": 4
+    }
+  },
+  "underwater": {
+    "siguientes": {
+      "no": 6,
+      "null": 2
+    },
+    "anteriores": {
+      "im": 8
+    }
+  },
+  "air": {
+    "siguientes": {
+      "in": 8
+    },
+    "anteriores": {
+      "no": 8
+    }
+  },
+  "lungs": {
+    "siguientes": {
+      "null": 6,
+      "my": 2
+    },
+    "anteriores": {
+      "my": 8
+    }
+  },
+  "wave": {
+    "siguientes": {
+      "i": 6,
+      "null": 2
+    },
+    "anteriores": {
+      "the": 8
+    }
+  },
+  "tame": {
+    "siguientes": {
+      "null": 6,
+      "if": 2
+    },
+    "anteriores": {
+      "never": 8
+    }
+  },
+  "dive": {
+    "siguientes": {
+      "back": 13,
+      "right": 8,
+      "backas": 1
+    },
+    "anteriores": {
+      "ill": 12,
+      "null": 6,
+      "you": 3,
+      "into": 1
+    }
+  },
+  "blood": {
+    "siguientes": {
+      "didnt": 2
+    },
+    "anteriores": {
+      "first": 2
+    }
+  },
+  "didnt": {
+    "siguientes": {
+      "thrill": 2
+    },
+    "anteriores": {
+      "blood": 2
+    }
+  },
+  "thrill": {
+    "siguientes": {
+      "enough": 2
+    },
+    "anteriores": {
+      "didnt": 2
+    }
+  },
+  "went": {
+    "siguientes": {
+      "further": 2
+    },
+    "anteriores": {
+      "i": 2
+    }
+  },
+  "further": {
+    "siguientes": {
+      "out": 2
+    },
+    "anteriores": {
+      "went": 2
+    }
+  },
+  "end": {
+    "siguientes": {
+      "of": 3
+    },
+    "anteriores": {
+      "deep": 2,
+      "the": 1
+    }
+  },
+  "ocean": {
+    "siguientes": {
+      "drain": 2
+    },
+    "anteriores": {
+      "little": 2
+    }
+  },
+  "drain": {
+    "siguientes": {
+      "the": 2
+    },
+    "anteriores": {
+      "ocean": 2
+    }
+  },
+  "fantasy": {
+    "siguientes": {
+      "of": 2
+    },
+    "anteriores": {
+      "the": 2
+    }
+  },
+  "headfirst": {
+    "siguientes": {
+      "into": 2
+    },
+    "anteriores": {
+      "null": 2
+    }
+  },
+  "shallow": {
+    "siguientes": {
+      "pools": 2
+    },
+    "anteriores": {
+      "into": 2
+    }
+  },
+  "pools": {
+    "siguientes": {
+      "null": 1,
+      "and": 1
+    },
+    "anteriores": {
+      "shallow": 2
+    }
+  },
+  "illusion": {
+    "siguientes": {
+      "can": 2
+    },
+    "anteriores": {
+      "the": 2
+    }
+  },
+  "shatter": {
+    "siguientes": {
+      "before": 2
+    },
+    "anteriores": {
+      "can": 2
+    }
+  },
+  "begin": {
+    "siguientes": {
+      "null": 2
+    },
+    "anteriores": {
+      "we": 2
+    }
+  },
+  "sorry": {
+    "siguientes": {
+      "happy": 2
+    },
+    "anteriores": {
+      "really": 2
+    }
+  },
+  "forgive": {
+    "siguientes": {
+      "null": 2
+    },
+    "anteriores": {
+      "could": 2
+    }
+  },
+  "right": {
+    "siguientes": {
+      "back": 12,
+      "at": 2,
+      "by": 1
+    },
+    "anteriores": {
+      "into": 2,
+      "dive": 8,
+      "null": 2,
+      "im": 1,
+      "all": 1,
+      "were": 1
+    }
+  },
+  "backas": {
+    "siguientes": {
+      "if": 1
+    },
+    "anteriores": {
+      "dive": 1
+    }
+  },
+  "lowkey": {
+    "siguientes": {
+      "no": 5
+    },
+    "anteriores": {
+      "null": 4,
+      "boy": 1
+    }
+  },
+  "pressure": {
+    "siguientes": {
+      "just": 5
+    },
+    "anteriores": {
+      "no": 5
+    }
+  },
+  "weather": {
+    "siguientes": {
+      "null": 5
+    },
+    "anteriores": {
+      "my": 5
+    }
+  },
+  "rosecolored": {
+    "siguientes": {
+      "boy": 5,
+      "too": 4
+    },
+    "anteriores": {
+      "null": 1,
+      "all": 4,
+      "my": 4
+    }
+  },
+  "boy": {
+    "siguientes": {
+      "i": 1,
+      "lowkey": 1,
+      "leave": 1,
+      "you": 1,
+      "just": 1,
+      "null": 1
+    },
+    "anteriores": {
+      "rosecolored": 5,
+      "but": 1
+    }
+  },
+  "noise": {
+    "siguientes": {
+      "about": 1
+    },
+    "anteriores": {
+      "that": 1
+    }
+  },
+  "world": {
+    "siguientes": {
+      "you": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "annoyed": {
+    "siguientes": {
+      "cause": 1
+    },
+    "anteriores": {
+      "so": 1
+    }
+  },
+  "killed": {
+    "siguientes": {
+      "off": 1
+    },
+    "anteriores": {
+      "just": 1
+    }
+  },
+  "optimist": {
+    "siguientes": {
+      "in": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "wars": {
+    "siguientes": {
+      "are": 2
+    },
+    "anteriores": {
+      "the": 2
+    }
+  },
+  "raging": {
+    "siguientes": {
+      "on": 2
+    },
+    "anteriores": {
+      "are": 2
+    }
+  },
+  "taken": {
+    "siguientes": {
+      "my": 2
+    },
+    "anteriores": {
+      "have": 2
+    }
+  },
+  "glasses": {
+    "siguientes": {
+      "off": 2
+    },
+    "anteriores": {
+      "my": 2
+    }
+  },
+  "nervous": {
+    "siguientes": {
+      "im": 1,
+      "and": 1
+    },
+    "anteriores": {
+      "me": 2
+    }
+  },
+  "rope": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "my": 1
+    }
+  },
+  "half": {
+    "siguientes": {
+      "empty": 2
+    },
+    "anteriores": {
+      "a": 2
+    }
+  },
+  "empty": {
+    "siguientes": {
+      "girl": 2
+    },
+    "anteriores": {
+      "half": 2
+    }
+  },
+  "choke": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "ill": 1
+    }
+  },
+  "longer": {
+    "siguientes": {
+      "i": 3,
+      "null": 2
+    },
+    "anteriores": {
+      "bit": 5
+    }
+  },
+  "gon": {
+    "siguientes": {
+      "smile": 4
+    },
+    "anteriores": {
+      "aint": 4
+    }
+  },
+  "insisting": {
+    "siguientes": {
+      "that": 1
+    },
+    "anteriores": {
+      "stop": 1
+    }
+  },
+  "lost": {
+    "siguientes": {
+      "cause": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "lot": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "pissed": {
+    "siguientes": {
+      "off": 1
+    },
+    "anteriores": {
+      "stay": 1
+    }
+  },
+  "turning": {
+    "siguientes": {
+      "it": 1
+    },
+    "anteriores": {
+      "youre": 1
+    }
+  },
+  "joke": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "car": {
+    "siguientes": {
+      "i": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "anybody": {
+    "siguientes": {
+      "seeing": 1
+    },
+    "anteriores": {
+      "want": 1
+    }
+  },
+  "seeing": {
+    "siguientes": {
+      "me": 1
+    },
+    "anteriores": {
+      "anybody": 1
+    }
+  },
+  "bright": {
+    "siguientes": {
+      "side": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "ever": {
+    "siguientes": {
+      "seen": 1,
+      "think": 1
+    },
+    "anteriores": {
+      "aint": 1,
+      "you": 1
+    }
+  },
+  "seen": {
+    "siguientes": {
+      "my": 1
+    },
+    "anteriores": {
+      "ever": 1
+    }
+  },
+  "mind": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "my": 1
+    }
+  },
+  "stranger": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "a": 1
+    }
+  },
+  "erased": {
+    "siguientes": {
+      "you": 1
+    },
+    "anteriores": {
+      "i": 1
+    }
+  },
+  "replace": {
+    "siguientes": {
+      "you": 1
+    },
+    "anteriores": {
+      "wont": 1
+    }
+  },
+  "suffocate": {
+    "siguientes": {
+      "or": 5
+    },
+    "anteriores": {
+      "i": 5
+    }
+  },
+  "tired": {
+    "siguientes": {
+      "of": 1
+    },
+    "anteriores": {
+      "im": 1
+    }
+  },
+  "starting": {
+    "siguientes": {
+      "something": 1
+    },
+    "anteriores": {
+      "just": 1
+    }
+  },
+  "sick": {
+    "siguientes": {
+      "of": 1
+    },
+    "anteriores": {
+      "getting": 1
+    }
+  },
+  "beginnings": {
+    "siguientes": {
+      "and": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "always": {
+    "siguientes": {
+      "coming": 1
+    },
+    "anteriores": {
+      "and": 1
+    }
+  },
+  "defenses": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "your": 1
+    }
+  },
+  "guess": {
+    "siguientes": {
+      "its": 1,
+      "i": 1
+    },
+    "anteriores": {
+      "i": 2
+    }
+  },
+  "chest": {
+    "siguientes": {
+      "i": 1
+    },
+    "anteriores": {
+      "my": 1
+    }
+  },
+  "convictions": {
+    "siguientes": {
+      "and": 1
+    },
+    "anteriores": {
+      "own": 1
+    }
+  },
+  "theyre": {
+    "siguientes": {
+      "stronger": 1
+    },
+    "anteriores": {
+      "and": 1
+    }
+  },
+  "stronger": {
+    "siguientes": {
+      "than": 1
+    },
+    "anteriores": {
+      "theyre": 1
+    }
+  },
+  "addiction": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "any": 1
+    }
+  },
+  "ones": {
+    "siguientes": {
+      "winning": 1
+    },
+    "anteriores": {
+      "no": 1
+    }
+  },
+  "winning": {
+    "siguientes": {
+      "tell": 1
+    },
+    "anteriores": {
+      "ones": 1
+    }
+  },
+  "silence": {
+    "siguientes": {
+      "null": 1,
+      "is": 1
+    },
+    "anteriores": {
+      "your": 2
+    }
+  },
+  "quiet": {
+    "siguientes": {
+      "of": 1
+    },
+    "anteriores": {
+      "your": 1
+    }
+  },
+  "weapons": {
+    "siguientes": {
+      "you": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "violent": {
+    "siguientes": {
+      "tell": 1
+    },
+    "anteriores": {
+      "most": 1
+    }
+  },
+  "dancing": {
+    "siguientes": {
+      "null": 1
+    },
+    "anteriores": {
+      "me": 1
+    }
+  },
+  "wildly": {
+    "siguientes": {
+      "in": 1
+    },
+    "anteriores": {
+      "null": 1
+    }
+  },
+  "fog": {
+    "siguientes": {
+      "of": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "memory": {
+    "siguientes": {
+      "you": 1
+    },
+    "anteriores": {
+      "your": 1
+    }
+  },
+  "best": {
+    "siguientes": {
+      "is": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "worst": {
+    "siguientes": {
+      "is": 1
+    },
+    "anteriores": {
+      "the": 1
+    }
+  },
+  "given": {
+    "siguientes": {
+      "up": 1
+    },
+    "anteriores": {
+      "have": 1
+    }
+  },
+  "told": {
+    "siguientes": {
+      "you": 6,
+      "me": 15
+    },
+    "anteriores": {
+      "i": 6,
+      "they": 12,
+      "you": 3
+    }
+  },
+  "admit": {
+    "siguientes": {
+      "that": 1
+    },
+    "anteriores": {
+      "i": 1
+    }
+  },
+  "wrong": {
+    "siguientes": {
+      "and": 1
+    },
+    "anteriores": {
+      "was": 1
+    }
+  },
+  "least": {
+    "siguientes": {
+      "i": 1
+    },
+    "anteriores": {
+      "at": 1
+    }
+  },
+  "thrown": {
+    "siguientes": {
+      "into": 1
+    },
+    "anteriores": {
+      "im": 1
+    }
+  },
+  "fire": {
+    "siguientes": {
+      "and": 1,
+      "throw": 6
+    },
+    "anteriores": {
+      "a": 1,
+      "the": 6
+    }
+  },
+  "pull": {
+    "siguientes": {
+      "me": 6
+    },
+    "anteriores": {
+      "and": 6
+    }
+  }
+}
