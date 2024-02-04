@@ -1,7 +1,5 @@
 from collections import defaultdict
-import json
 import os
-import pytest
 import sys
 
 
@@ -87,3 +85,6 @@ def main():
     nombre_autor = sys.argv[1]
     diccionario = crear_diccionario(nombre_autor)
     predecir(nombre_autor, diccionario)
+
+
+main()
