@@ -1,35 +1,57 @@
-Predictor de texto
-Trabajo de fin de curso, Santiago Calligari.
+# Predictor de Texto
+<a href="https://www.github.com/santiagoCalligari/ProgII">Enlace Github</a>
 
-Introducción
+## Trabajo de Fin de Curso - Santiago Calligari
 
-Este programa implementa un predictor de texto para completar frases con base en el estilo de un autor específico. El sistema funciona en dos etapas:
+---
 
-1. Preprocesamiento (C)
+## Introducción
 
-Entrada: Nombre del autor.
-Proceso:
-Se verifica si existe un directorio para el autor en RUTA_DIRECTORIO_TRABAJO.
-Si no existe, se crea un archivo .list con los nombres de los archivos en el directorio del autor.
-Se crea un directorio Entradas/{Artista}.
-Se normalizan los archivos del autor, reemplazando caracteres especiales y eliminando puntuación.
-Se ejecuta el script RUTA_SCRIPT_PYTHON.
-2. Entrenamiento y predicción (Python)
+### Implementación en C
 
-Entrada: Archivo de texto con frases del autor.
-Proceso:
-Se crea un diccionario de diccionarios, donde cada palabra tiene un subdiccionario con las siguientes claves:
-siguientes: Diccionario con las palabras que siguen a la actual y su frecuencia.
-anteriores: Diccionario con las palabras que preceden a la actual y su frecuencia.
-Se recorre el archivo de frases, actualizando el diccionario con las palabras y sus relaciones.
-Se abre el archivo de frases a completar y se busca el caracter _.
-Se obtienen las palabras anterior y posterior a _.
-Se consultan los diccionarios siguientes y anteriores para obtener las palabras más probables.
-Se selecciona la palabra con mayor frecuencia y se reemplaza en la frase.
-Se repite el proceso hasta completar todas las frases.
-Detalles de la implementación
+En la fase inicial, el programa recibe el nombre de un artista y verifica su existencia en la carpeta designada por la constante `RUTA_DIRECTORIO_TRABAJO`. En caso de no existir, finaliza con un error. En caso contrario, dentro del directorio del autor, crea un archivo oculto llamado `.list`, que contiene los nombres de todos los archivos en dicho directorio.
 
-Normalización de texto: Se utiliza una función para convertir el texto a minúsculas, eliminar acentos y puntuación, y reemplazar caracteres especiales.
-Diccionario de palabras: Se implementa un defaultdict(dict) para almacenar las palabras y sus relaciones.
-Predicción: Se calcula la frecuencia de las palabras que siguen a la anterior y preceden a la posterior, y se selecciona la más probable.
-Limitaciones y mejoras
+Posteriormente, se crea un directorio con el nombre dado por la constante `RUTA_DIRECTORIO_ENTRADAS`. A continuación, el programa recorre y normaliza cada archivo del directorio del autor.
+
+#### Proceso de Normalización de un Archivo
+
+El programa abre el archivo y lo lee hasta encontrar un punto. En ese momento, invoca la función `normalizar_cadena()`, la cual devuelve una cadena normalizada, eliminando cualquier carácter que no esté entre 'a' y 'z'. Cuando se encuentra un salto de línea, se gestiona para dejar un espacio o simplemente nada, dependiendo de la necesidad para evitar la concatenación de dos palabras.
+
+Una vez normalizada la cadena, se guarda en el archivo con el nombre del autor en la ruta dada por `RUTA_DIRECTORIO_ENTRADAS`. Este proceso se repite para todos los archivos del autor.
+
+Finalizada la normalización de todos los archivos del autor, se ejecuta en Python el script especificado por la constante `RUTA_SCRIPT_PYTHON` mediante la función `run_python_script()`.
+
+### Implementación en Python
+
+Cuando se llama a este programa en Python, se proporciona el nombre de un artista sin verificar su existencia, ya que la entrada se crea previamente en C antes de llamar a este programa.
+
+#### Proceso de Entrenamiento
+
+El programa utiliza un diccionario de diccionarios de diccionarios para almacenar información sobre las palabras en las entradas. Cada palabra es una clave que tiene como valor un diccionario con dos conjuntos de claves: `siguientes` y `anteriores`. Estos conjuntos contienen diccionarios con palabras y la cantidad de ocurrencias de las palabras siguientes o anteriores. El formato es el siguiente:
+```json
+{
+  "lorem": {
+    "siguientes": {"ipsum": 2, "dolor": 3, "sit": 66},
+    "anteriores": {"amet": 5, "forum": 65, "agora": 652}
+  },
+  "ipsum": {
+    "siguientes": {"forum": 2, "dolor": 3, "sit": 66},
+    "anteriores": {"lorem": 5, "ipsum": 65, "agora": 652}
+  },
+  .
+  .
+  .
+}
+```
+
+Se utiliza un `DefaultDict` para evitar la repetición de código en caso de que algo no exista en el diccionario.
+
+Durante el recorrido del archivo de entradas, por cada palabra se agrega al diccionario si no existe. También se añade la siguiente palabra al conjunto de `siguientes` y la palabra anterior al conjunto de `anteriores`. Al inicio de una cadena, se agrega `None` en el conjunto de `anteriores`, y lo mismo para `siguientes` cuando la palabra es la última.
+
+Una vez alimentado el diccionario, se pasa a la fase de predicción.
+
+#### Proceso de Predicción
+
+Se abre el archivo especificado en la carpeta de frases y se itera hasta encontrar un '_'. En ese momento, se determinan las palabras anteriores y posteriores al '_', y se obtiene de nuestro diccionario los conjuntos de "siguientes" de la palabra anterior y "anteriores" de la palabra siguiente para enviarlos a la función predictora.
+
+La función predictora realiza una unión de todas las palabras posibles y selecciona aquella que tiene la mayor cantidad de ocurrencias. Cuando se obtiene la predicción, se reemplaza la palabra y se reescribe la línea.
